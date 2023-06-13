@@ -1,0 +1,178 @@
+<questions>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что сила, действующая на проводник с током в магнитном поле, прямо пропорциональна силе тока, индукции магнитного поля и длине проводника и обратно пропорциональна синусу угла между направлениями тока и магнитного поля?</questionText>
+        <option1>Закон Фарадея</option1>
+        <option2>Закон Ампера</option2>
+        <option3>Закон Ленца</option3>
+        <option4>Закон Кулона</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что электрический заряд, движущийся в магнитном поле, ощущает на себе силу, перпендикулярную направлению движения и магнитному полю?</questionText>
+        <option1>Закон Фарадея</option1>
+        <option2>Закон Ампера</option2>
+        <option3>Закон Ленца</option3>
+        <option4>Закон Лоренца</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что при движении частицы в однородном магнитном поле радиус ее орбиты прямо пропорционален ее импульсу и обратно пропорционален модулю магнитной индукции и заряду частицы?</questionText>
+        <option1>Закон Фарадея</option1>
+        <option2>Закон Ампера</option2>
+        <option3>Закон Ленца</option3>
+        <option4>Закон Лоренца</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что электрический ток, протекающий по проводнику, создает вокруг него магнитное поле?</questionText>
+        <option1>Закон Фарадея</option1>
+        <option2>Закон Ампера</option2>
+        <option3>Закон Ленца</option3>
+        <option4>Закон Эйнштейна</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что электрическая сила взаимодействия между двумя точечными зарядами прямо пропорциональна их зарядам и обратно пропорциональна квадрату расстояния между ними?</questionText>
+        <option1>Закон Кулона</option1>
+        <option2>Закон Фарадея</option2>
+        <option3>Закон Ампера</option3>
+        <option4>Закон Лоренца</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что сопротивление проводника прямо пропорционально его длине и обратно пропорционально площади поперечного сечения?</questionText>
+        <option1>Закон Ома</option1>
+        <option2>Закон Кулона</option2>
+        <option3>Закон Фарадея</option3>
+        <option4>Закон Ампера</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что электрический ток, протекающий по проводнику, прямо пропорционален напряжению на его концах и обратно пропорционален его сопротивлению?</questionText>
+        <option1>Закон Кулона</option1>
+        <option2>Закон Фарадея</option2>
+        <option3>Закон Ома</option3>
+        <option4>Закон Ампера</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что сила тока, протекающего по проводнику, прямо пропорциональна напряженности магнитного поля и длине проводника и обратно пропорциональна площади поперечного сечения проводника?</questionText>
+        <option1>Закон Фарадея</option1>
+        <option2>Закон Ампера</option2>
+        <option3>Закон Ома</option3>
+        <option4>Закон Лоренца</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что электрическое поле в проводнике равномерно и прямо пропорционально плотности электрического тока?</questionText>
+        <option1>Закон Кулона</option1>
+        <option2>Закон Фарадея</option2>
+        <option3>Закон Ампера</option3>
+        <option4>Закон Ома</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое электрический заряд?</questionText>
+        <option1>Сила, с которой тело воздействует на окружающие объекты</option1>
+        <option2>Сила, препятствующая движению тела в среде</option2>
+        <option3>Физическая величина, характеризующая свойство частицы быть заряженной</option3>
+        <option4>Сила, с которой Земля притягивает все объекты к своему центру</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое волновая длина?</questionText>
+        <option1>Расстояние между двумя соседними точками на волне, колеблющейся в одной и той же фазе</option1>
+        <option2>Расстояние, которое проходит волна за единицу времени</option2>
+        <option3>Расстояние от центра волны до ее наивысшей или наименьшей точки</option3>
+        <option4>Максимальное отклонение волны от положения равновесия</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон сохранения энергии, согласно которому энергия не может быть создана или уничтожена, а может только превращаться из одной формы в другую?</questionText>
+        <option1>Закон сохранения импульса</option1>
+        <option2>Закон сохранения заряда</option2>
+        <option3>Закон сохранения энергии</option3>
+        <option4>Закон сохранения массы</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое преломление света?</questionText>
+        <option1>Явление изменения направления распространения света при прохождении из одной среды в другую</option1>
+        <option2>Явление отражения света от поверхности</option2>
+        <option3>Явление, при котором свет испытывает изменение цвета при прохождении через прозрачное вещество</option3>
+        <option4>Явление, при котором свет поглощается поверхностью тела</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какой закон описывает отношение между силой, массой и ускорением тела?</questionText>
+        <option1>Закон Архимеда</option1>
+        <option2>Закон Ньютона</option2>
+        <option3>Закон Паскаля</option3>
+        <option4>Закон Кеплера</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое электрический ток?</questionText>
+        <option1>Периодическое изменение напряжения в электрической цепи</option1>
+        <option2>Сила, с которой тело воздействует на окружающие объекты</option2>
+        <option3>Перемещение электрических зарядов внутри проводника</option3>
+        <option4>Сила, действующая на тело в результате вращения Земли</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что изменение магнитного потока в контуре вызывает в нем электродвижущую силу (ЭДС), прямо пропорциональную скорости изменения потока?</questionText>
+        <option1>Закон Фарадея</option1>
+        <option2>Закон Ампера</option2>
+        <option3>Закон Ома</option3>
+        <option4>Закон Ленца</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что в замкнутой электрической цепи сила тока прямо пропорциональна приложенной напряженности и обратно пропорциональна суммарному сопротивлению цепи?</questionText>
+        <option1>Закон Кулона</option1>
+        <option2>Закон Фарадея</option2>
+        <option3>Закон Ома</option3>
+        <option4>Закон Ампера</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что при прохождении электрического тока через воду или раствор электролита в нем происходит разложение вещества на ионы?</questionText>
+        <option1>Закон Кулона</option1>
+        <option2>Закон Фарадея</option2>
+        <option3>Закон Ома</option3>
+        <option4>Закон Ампера</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что в точке соединения проводников в цепи сумма токов, втекающих в точку, равна сумме токов, вытекающих из точки?</questionText>
+        <option1>Закон Кулона</option1>
+        <option2>Закон Фарадея</option2>
+        <option3>Закон Ома</option3>
+        <option4>Закон Кирхгофа</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что энергия, выделяемая или поглощаемая электрическим током в проводнике, прямо пропорциональна квадрату силы тока, сопротивлению проводника и времени его действия?</questionText>
+        <option1>Закон Фарадея</option1>
+        <option2>Закон Ампера</option2>
+        <option3>Закон Ома</option3>
+        <option4>Закон Джоуля-Ленца</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что сила, действующая на заряженную частицу в электрическом поле, прямо пропорциональна величине заряда и напряженности поля?</questionText>
+        <option1>Закон Кулона</option1>
+        <option2>Закон Фарадея</option2>
+        <option3>Закон Ома</option3>
+        <option4>Закон Ампера</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что при прохождении электрического тока через проводник в нем возникает нагрев и сила этого нагрева прямо пропорциональна квадрату силы тока, сопротивлению проводника и времени его действия?</questionText>
+        <option1>Закон Фарадея</option1>
+        <option2>Закон Ампера</option2>
+        <option3>Закон Ома</option3>
+        <option4>Закон Джоуля-Ленца</option4>
+        <correctOption>4</correctOption>
+    </question>
+</questions>

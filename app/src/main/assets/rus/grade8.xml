@@ -1,0 +1,210 @@
+<questions>
+    <question>
+        <questionText>Какая часть речи обозначает местоимение, заменяющее имя существительное?</questionText>
+        <option1>Глагол</option1>
+        <option2>Прилагательное</option2>
+        <option3>Существительное</option3>
+        <option4>Местоимение</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является сказуемым: "Он плавал в озере"?</questionText>
+        <option1>Он</option1>
+        <option2>Плавал</option2>
+        <option3>В</option3>
+        <option4>Озере</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является дополнением: "Она читает книгу"?</questionText>
+        <option1>Она</option1>
+        <option2>Читает</option2>
+        <option3>Книгу</option3>
+        <option4>Дополнения нет</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является подлежащим: "Кот убежал с улицы"?</questionText>
+        <option1>Кот</option1>
+        <option2>Убежал</option2>
+        <option3>С</option3>
+        <option4>Улицы</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является определением: "Большая собака лает громко"?</questionText>
+        <option1>Большая</option1>
+        <option2>Собака</option2>
+        <option3>Лает</option3>
+        <option4>Громко</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является обстоятельством: "Она поет красиво"?</questionText>
+        <option1>Она</option1>
+        <option2>Поет</option2>
+        <option3>Красиво</option3>
+        <option4>Обстоятельства нет</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какая часть речи обозначает признак предмета или лица?</questionText>
+        <option1>Глагол</option1>
+        <option2>Прилагательное</option2>
+        <option3>Существительное</option3>
+        <option4>Местоимение</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какая часть речи обозначает действие или состояние?</questionText>
+        <option1>Глагол</option1>
+        <option2>Прилагательное</option2>
+        <option3>Существительное</option3>
+        <option4>Местоимение</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является сказуемым: "Он быстро бежит"?</questionText>
+        <option1>Он</option1>
+        <option2>Быстро</option2>
+        <option3>Бежит</option3>
+        <option4>Сказуемого нет</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какая часть речи обозначает лицо, животное, предмет или понятие?</questionText>
+        <option1>Глагол</option1>
+        <option2>Прилагательное</option2>
+        <option3>Существительное</option3>
+        <option4>Местоимение</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое грамматика?</questionText>
+        <option1>Набор правил, определяющих строение и употребление языка</option1>
+        <option2>Система знаков препинания</option2>
+        <option3>Изучение происхождения слов</option3>
+        <option4>Правила построения словосочетаний</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое синтаксис?</questionText>
+        <option1>Набор правил, определяющих строение и употребление языка</option1>
+        <option2>Система знаков препинания</option2>
+        <option3>Изучение происхождения слов</option3>
+        <option4>Правила построения словосочетаний</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое пунктуация?</questionText>
+        <option1>Набор правил, определяющих строение и употребление языка</option1>
+        <option2>Система знаков препинания</option2>
+        <option3>Изучение происхождения слов</option3>
+        <option4>Правила построения словосочетаний</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое лексика?</questionText>
+        <option1>Набор правил, определяющих строение и употребление языка</option1>
+        <option2>Система знаков препинания</option2>
+        <option3>Изучение происхождения слов</option3>
+        <option4>Словарный запас языка, совокупность слов</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое орфография?</questionText>
+        <option1>Набор правил, определяющих строение и употребление языка</option1>
+        <option2>Система знаков препинания</option2>
+        <option3>Правила правописания слов</option3>
+        <option4>Правила построения словосочетаний</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое семантика?</questionText>
+        <option1>Набор правил, определяющих строение и употребление языка</option1>
+        <option2>Система знаков препинания</option2>
+        <option3>Изучение происхождения слов</option3>
+        <option4>Учение о значении слов и выражений</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Какие буквы называются гласными?</questionText>
+        <option1>А, У, О, И, Э</option1>
+        <option2>Б, Г, Д, Ж, З</option2>
+        <option3>К, Л, М, Н, П</option3>
+        <option4>Р, С, Т, Ф, Х</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какие буквы называются согласными?</questionText>
+        <option1>А, У, О, И, Э</option1>
+        <option2>Б, Г, Д, Ж, З</option2>
+        <option3>К, Л, М, Н, П</option3>
+        <option4>Р, С, Т, Ф, Х</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какая буква является первой гласной алфавита?</questionText>
+        <option1>А</option1>
+        <option2>Е</option2>
+        <option3>Ё</option3>
+        <option4>И</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какая буква является последней согласной алфавита?</questionText>
+        <option1>Р</option1>
+        <option2>С</option2>
+        <option3>Т</option3>
+        <option4>Х</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое синонимы?</questionText>
+        <option1>Слова с одинаковым значением</option1>
+        <option2>Слова с противоположным значением</option2>
+        <option3>Слова, обозначающие один и тот же предмет</option3>
+        <option4>Слова, образующие рифму</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое антонимы?</questionText>
+        <option1>Слова с одинаковым значением</option1>
+        <option2>Слова с противоположным значением</option2>
+        <option3>Слова, обозначающие один и тот же предмет</option3>
+        <option4>Слова, образующие рифму</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое омонимы?</questionText>
+        <option1>Слова с одинаковым значением</option1>
+        <option2>Слова с противоположным значением</option2>
+        <option3>Слова, обозначающие один и тот же предмет</option3>
+        <option4>Слова, образующие рифму</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое рифма?</questionText>
+        <option1>Слова с одинаковым значением</option1>
+        <option2>Слова с противоположным значением</option2>
+        <option3>Слова, обозначающие один и тот же предмет</option3>
+        <option4>Слова, образующие звуковое совпадение на конце</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово является глаголом?</questionText>
+        <option1>Дом</option1>
+        <option2>Солнце</option2>
+        <option3>Бежать</option3>
+        <option4>Стол</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово является существительным?</questionText>
+        <option1>Дом</option1>
+        <option2>Прыгать</option2>
+        <option3>Быстро</option3>
+        <option4>Летать</option4>
+        <correctOption>1</correctOption>
+    </question>
+</questions>

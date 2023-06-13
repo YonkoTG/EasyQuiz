@@ -1,0 +1,178 @@
+<questions>
+    <question>
+        <questionText>Какое слово в предложении является обстоятельством: "Она поет красиво"?</questionText>
+        <option1>Она</option1>
+        <option2>Поет</option2>
+        <option3>Красиво</option3>
+        <option4>Обстоятельства нет</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какая часть речи обозначает признак предмета или лица?</questionText>
+        <option1>Глагол</option1>
+        <option2>Прилагательное</option2>
+        <option3>Существительное</option3>
+        <option4>Местоимение</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какая часть речи обозначает действие или состояние?</questionText>
+        <option1>Глагол</option1>
+        <option2>Прилагательное</option2>
+        <option3>Существительное</option3>
+        <option4>Местоимение</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является сказуемым: "Он быстро бежит"?</questionText>
+        <option1>Он</option1>
+        <option2>Быстро</option2>
+        <option3>Бежит</option3>
+        <option4>Сказуемого нет</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какая часть речи обозначает лицо, животное, предмет или понятие?</questionText>
+        <option1>Глагол</option1>
+        <option2>Прилагательное</option2>
+        <option3>Существительное</option3>
+        <option4>Местоимение</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является подлежащим: "Книга лежит на столе"?</questionText>
+        <option1>Книга</option1>
+        <option2>Лежит</option2>
+        <option3>На</option3>
+        <option4>Столе</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является дополнением: "Мальчик рисует картину"?</questionText>
+        <option1>Мальчик</option1>
+        <option2>Рисует</option2>
+        <option3>Картину</option3>
+        <option4>Дополнения нет</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является определением: "Старый дом стоит на углу"?</questionText>
+        <option1>Старый</option1>
+        <option2>Дом</option2>
+        <option3>Стоит</option3>
+        <option4>На</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое синонимы?</questionText>
+        <option1>Слова с одинаковым значением</option1>
+        <option2>Слова с противоположным значением</option2>
+        <option3>Слова, обозначающие один и тот же предмет</option3>
+        <option4>Слова, образующие рифму</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое антонимы?</questionText>
+        <option1>Слова с одинаковым значением</option1>
+        <option2>Слова с противоположным значением</option2>
+        <option3>Слова, обозначающие один и тот же предмет</option3>
+        <option4>Слова, образующие рифму</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое омонимы?</questionText>
+        <option1>Слова с одинаковым значением</option1>
+        <option2>Слова с противоположным значением</option2>
+        <option3>Слова, обозначающие один и тот же предмет</option3>
+        <option4>Слова, образующие рифму</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое рифма?</questionText>
+        <option1>Слова с одинаковым значением</option1>
+        <option2>Слова с противоположным значением</option2>
+        <option3>Слова, обозначающие один и тот же предмет</option3>
+        <option4>Слова, образующие звуковое совпадение на конце</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово является глаголом?</questionText>
+        <option1>Дом</option1>
+        <option2>Солнце</option2>
+        <option3>Бежать</option3>
+        <option4>Стол</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово является существительным?</questionText>
+        <option1>Дом</option1>
+        <option2>Прыгать</option2>
+        <option3>Быстро</option3>
+        <option4>Летать</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется основной синтаксический член предложения?</questionText>
+        <option1>Подлежащее</option1>
+        <option2>Сказуемое</option2>
+        <option3>Дополнение</option3>
+        <option4>Определение</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется часть речи, которая выражает свойства или признаки предметов и явлений?</questionText>
+        <option1>Существительное</option1>
+        <option2>Глагол</option2>
+        <option3>Прилагательное</option3>
+        <option4>Наречие</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какие части речи обозначают предметы?</questionText>
+        <option1>Существительные</option1>
+        <option2>Глаголы</option2>
+        <option3>Прилагательные</option3>
+        <option4>Наречия</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какие части речи обозначают действия?</questionText>
+        <option1>Существительные</option1>
+        <option2>Глаголы</option2>
+        <option3>Прилагательные</option3>
+        <option4>Наречия</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какие части речи обозначают признаки предметов?</questionText>
+        <option1>Существительные</option1>
+        <option2>Глаголы</option2>
+        <option3>Прилагательные</option3>
+        <option4>Наречия</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какие части речи обозначают обстоятельства?</questionText>
+        <option1>Существительные</option1>
+        <option2>Глаголы</option2>
+        <option3>Прилагательные</option3>
+        <option4>Наречия</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое сказуемое в предложении?</questionText>
+        <option1>Часть речи, обозначающая действие или состояние</option1>
+        <option2>Часть речи, обозначающая предметы и явления</option2>
+        <option3>Часть речи, обозначающая признаки предметов</option3>
+        <option4>Часть речи, обозначающая обстоятельства</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое подлежащее в предложении?</questionText>
+        <option1>Часть речи, обозначающая действие или состояние</option1>
+        <option2>Часть речи, обозначающая предметы и явления</option2>
+        <option3>Часть речи, обозначающая признаки предметов</option3>
+        <option4>Часть речи, обозначающая обстоятельства</option4>
+        <correctOption>2</correctOption>
+    </question>
+</questions>

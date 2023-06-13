@@ -1,0 +1,202 @@
+<questions>
+    <question>
+        <questionText>Какое слово в предложении является сказуемым: "Мальчик бежал по улице"?</questionText>
+        <option1>Мальчик</option1>
+        <option2>Бежал</option2>
+        <option3>По</option3>
+        <option4>Улице</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какая часть речи обозначает признак предмета или лица?</questionText>
+        <option1>Глагол</option1>
+        <option2>Прилагательное</option2>
+        <option3>Существительное</option3>
+        <option4>Местоимение</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является подлежащим: "Солнце светит ярко"?</questionText>
+        <option1>Солнце</option1>
+        <option2>Светит</option2>
+        <option3>Ярко</option3>
+        <option4>Подлежащего нет</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какие буквы называются гласными?</questionText>
+        <option1>А, У, О, И, Э</option1>
+        <option2>Б, Г, Д, Ж, З</option2>
+        <option3>К, Л, М, Н, П</option3>
+        <option4>Р, С, Т, Ф, Х</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какие буквы называются согласными?</questionText>
+        <option1>А, У, О, И, Э</option1>
+        <option2>Б, Г, Д, Ж, З</option2>
+        <option3>К, Л, М, Н, П</option3>
+        <option4>Р, С, Т, Ф, Х</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какая буква является первой гласной алфавита?</questionText>
+        <option1>А</option1>
+        <option2>Е</option2>
+        <option3>Ё</option3>
+        <option4>И</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какая буква является последней согласной алфавита?</questionText>
+        <option1>Р</option1>
+        <option2>С</option2>
+        <option3>Т</option3>
+        <option4>Х</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое синонимы?</questionText>
+        <option1>Слова с одинаковым значением</option1>
+        <option2>Слова с противоположным значением</option2>
+        <option3>Слова, обозначающие один и тот же предмет</option3>
+        <option4>Слова, образующие рифму</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является дополнением: "Мальчик купил мороженое"?</questionText>
+        <option1>Мальчик</option1>
+        <option2>Купил</option2>
+        <option3>Мороженое</option3>
+        <option4>Дополнения нет</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является определением: "Красивый цветок стоит на окне"?</questionText>
+        <option1>Красивый</option1>
+        <option2>Цветок</option2>
+        <option3>Стоит</option3>
+        <option4>Окне</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является обстоятельством: "Он говорит громко"?</questionText>
+        <option1>Он</option1>
+        <option2>Говорит</option2>
+        <option3>Громко</option3>
+        <option4>Обстоятельства нет</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какая часть речи обозначает действие или состояние?</questionText>
+        <option1>Глагол</option1>
+        <option2>Прилагательное</option2>
+        <option3>Существительное</option3>
+        <option4>Местоимение</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какая часть речи обозначает местоимение, заменяющее имя существительное?</questionText>
+        <option1>Глагол</option1>
+        <option2>Прилагательное</option2>
+        <option3>Существительное</option3>
+        <option4>Местоимение</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является сказуемым: "Он плавал в озере"?</questionText>
+        <option1>Он</option1>
+        <option2>Плавал</option2>
+        <option3>В</option3>
+        <option4>Озере</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является дополнением: "Она читает книгу"?</questionText>
+        <option1>Она</option1>
+        <option2>Читает</option2>
+        <option3>Книгу</option3>
+        <option4>Дополнения нет</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является подлежащим: "Кот убежал с улицы"?</questionText>
+        <option1>Кот</option1>
+        <option2>Убежал</option2>
+        <option3>С</option3>
+        <option4>Улицы</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является определением: "Большая собака лает громко"?</questionText>
+        <option1>Большая</option1>
+        <option2>Собака</option2>
+        <option3>Лает</option3>
+        <option4>Громко</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является обстоятельством: "Она поет красиво"?</questionText>
+        <option1>Она</option1>
+        <option2>Поет</option2>
+        <option3>Красиво</option3>
+        <option4>Обстоятельства нет</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какая часть речи обозначает признак предмета или лица?</questionText>
+        <option1>Глагол</option1>
+        <option2>Прилагательное</option2>
+        <option3>Существительное</option3>
+        <option4>Местоимение</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какая часть речи обозначает действие или состояние?</questionText>
+        <option1>Глагол</option1>
+        <option2>Прилагательное</option2>
+        <option3>Существительное</option3>
+        <option4>Местоимение</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является сказуемым: "Он быстро бежит"?</questionText>
+        <option1>Он</option1>
+        <option2>Быстро</option2>
+        <option3>Бежит</option3>
+        <option4>Сказуемого нет</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какая часть речи обозначает лицо, животное, предмет или понятие?</questionText>
+        <option1>Глагол</option1>
+        <option2>Прилагательное</option2>
+        <option3>Существительное</option3>
+        <option4>Местоимение</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является подлежащим: "Книга лежит на столе"?</questionText>
+        <option1>Книга</option1>
+        <option2>Лежит</option2>
+        <option3>На</option3>
+        <option4>Столе</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является дополнением: "Мальчик рисует картину"?</questionText>
+        <option1>Мальчик</option1>
+        <option2>Рисует</option2>
+        <option3>Картину</option3>
+        <option4>Дополнения нет</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какое слово в предложении является определением: "Старый дом стоит на углу"?</questionText>
+        <option1>Старый</option1>
+        <option2>Дом</option2>
+        <option3>Стоит</option3>
+        <option4>На</option4>
+        <correctOption>1</correctOption>
+    </question>
+</questions>

@@ -1,0 +1,234 @@
+<questions>
+    <question>
+        <questionText>Какие языки программирования являются текстовыми?</questionText>
+        <option1>JavaScript и HTML</option1>
+        <option2>Java и C++</option2>
+        <option3>Python и Ruby</option3>
+        <option4>SQL и CSS</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какой элемент используется для хранения и передачи данных в HTML?</questionText>
+        <option1>p</option1>
+        <option2>span</option2>
+        <option3>div</option3>
+        <option4>input</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется язык разметки для стилизации веб-страниц в CSS?</questionText>
+        <option1>PHP</option1>
+        <option2>SQL</option2>
+        <option3>XML</option3>
+        <option4>HTML</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Что означает аббревиатура "URL"?</questionText>
+        <option1>Uniform Resource Locator</option1>
+        <option2>Universal Reference Library</option2>
+        <option3>User Requirement List</option3>
+        <option4>Unified Response Language</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какой тег используется для создания таблицы в HTML?</questionText>
+        <option1>table</option1>
+        <option2>form</option2>
+        <option3>mg</option3>
+        <option4>a</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какой оператор используется для объединения двух строк в языке программирования Python?</questionText>
+        <option1>+</option1>
+        <option2>*</option2>
+        <option3>-</option3>
+        <option4>/</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какой тип данных используется для хранения целых чисел в языке программирования Java?</questionText>
+        <option1>int</option1>
+        <option2>double</option2>
+        <option3>boolean</option3>
+        <option4>string</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется язык программирования, который часто используется для разработки мобильных приложений?</questionText>
+        <option1>Java</option1>
+        <option2>Python</option2>
+        <option3>Swift</option3>
+        <option4>C++</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какой оператор используется для выполнения условных операций в языке программирования C++?</questionText>
+        <option1>if-else</option1>
+        <option2>for</option2>
+        <option3>switch</option3>
+        <option4>while</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Что означает аббревиатура "HTTP"?</questionText>
+        <option1>Hypertext Transfer Protocol</option1>
+        <option2>High Technology Programming</option2>
+        <option3>Hardware Troubleshooting Process</option3>
+        <option4>Hyperlink Text Processing</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какой тип данных используется для хранения десятичных чисел в языке программирования C#?</questionText>
+        <option1>int</option1>
+        <option2>double</option2>
+        <option3>bool</option3>
+        <option4>string</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какой оператор используется для выполнения циклических операций в языке программирования JavaScript?</questionText>
+        <option1>if-else</option1>
+        <option2>for</option2>
+        <option3>switch</option3>
+        <option4>while</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какая программа используется для создания презентаций?</questionText>
+        <option1>Microsoft PowerPoint</option1>
+        <option2>Adobe Illustrator</option2>
+        <option3>Windows Media Player</option3>
+        <option4>Mozilla Firefox</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое переменная в программировании?</questionText>
+        <option1>Специальный тип данных</option1>
+        <option2>Команда для вывода информации на экран</option2>
+        <option3>Символическое имя, связанное с определенным значением</option3>
+        <option4>Оператор для сравнения двух значений</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое база данных?</questionText>
+        <option1>Структура данных для хранения информации</option1>
+        <option2>Метод шифрования информации</option2>
+        <option3>Программа для создания текстовых документов</option3>
+        <option4>Процесс проверки кода на наличие ошибок</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какой тип данных используется для хранения целых чисел в программировании?</questionText>
+        <option1>Float</option1>
+        <option2>String</option2>
+        <option3>Integer</option3>
+        <option4>Boolean</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое цикл for в программировании?</questionText>
+        <option1>Цикл, который выполняется определенное количество раз</option1>
+        <option2>Цикл, который выполняется до выполнения определенного условия</option2>
+        <option3>Цикл, который выполняется бесконечное количество раз</option3>
+        <option4>Цикл, который выполняется только один раз</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое функция print() в языке программирования Python?</questionText>
+        <option1>Функция для ввода данных с клавиатуры</option1>
+        <option2>Функция для создания графического интерфейса</option2>
+        <option3>Функция для вывода информации на экран</option3>
+        <option4>Функция для сортировки элементов массива</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется язык программирования, который широко используется для анализа данных и машинного обучения?</questionText>
+        <option1>Ruby</option1>
+        <option2>Python</option2>
+        <option3>Java</option3>
+        <option4>C#</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какой элемент используется для создания списков в языке HTML?</questionText>
+        <option1>li</option1>
+        <option2>ul></option2>
+        <option3>ol</option3>
+        <option4>div</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется метод программирования, при котором задача разбивается на более мелкие и более простые подзадачи?</questionText>
+        <option1>Итерация</option1>
+        <option2>Рекурсия</option2>
+        <option3>Абстракция</option3>
+        <option4>Модульность</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Какой оператор используется для проверки условий в языке программирования Python?</questionText>
+        <option1>if-else</option1>
+        <option2>for</option2>
+        <option3>switch</option3>
+        <option4>while</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какой тип данных используется для хранения истинных или ложных значений в языке программирования C++?</questionText>
+        <option1>int</option1>
+        <option2>double</option2>
+        <option3>bool</option3>
+        <option4>string</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какой оператор используется для выполнения циклических операций в языке программирования Java?</questionText>
+        <option1>if-else</option1>
+        <option2>for</option2>
+        <option3>switch</option3>
+        <option4>while</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Что означает аббревиатура "HTML"?</questionText>
+        <option1>Hypertext Markup Language</option1>
+        <option2>High Tech Machine Learning</option2>
+        <option3>Hardware Testing and Maintenance Language</option3>
+        <option4>Hyperlink Text Manipulation Language</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется язык программирования, который часто используется для разработки игр?</questionText>
+        <option1>Java</option1>
+        <option2>Python</option2>
+        <option3>C#</option3>
+        <option4>JavaScript</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какая программа используется для создания таблиц в электронных таблицах?</questionText>
+        <option1>Microsoft Excel</option1>
+        <option2>Adobe Photoshop</option2>
+        <option3>Notepad++</option3>
+        <option4>Google Chrome</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое оператор if в программировании?</questionText>
+        <option1>Метод для сортировки данных</option1>
+        <option2>Условие, определяющее выполнение определенного кода</option2>
+        <option3>Специальная команда для вывода информации на экран</option3>
+        <option4>Структура данных для хранения информации</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое компиляция программы?</questionText>
+        <option1>Процесс исправления ошибок в коде программы</option1>
+        <option2>Процесс запуска программы на компьютере</option2>
+        <option3>Процесс преобразования исходного кода в машинный код</option3>
+        <option4>Процесс создания интерфейса программы</option4>
+        <correctOption>3</correctOption>
+    </question>
+</questions>

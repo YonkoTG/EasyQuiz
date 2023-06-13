@@ -1,0 +1,424 @@
+<questions>
+    <question>
+        <questionText>Найдите производную функции f(x) = 3x^2 + 2x - 1</questionText>
+        <option1>f'(x) = 6x + 2</option1>
+        <option2>f'(x) = 6x - 1</option2>
+        <option3>f'(x) = 3x^2 + 2x</option3>
+        <option4>f'(x) = 3x^2 - 1</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: log(x^2 + 3) = 2</questionText>
+        <option1>x = 1</option1>
+        <option2>x = -1</option2>
+        <option3>x = ±2</option3>
+        <option4>x = ±3</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите корень уравнения: 2x^3 + 8 = 0</questionText>
+        <option1>x = -2</option1>
+        <option2>x = -√2</option2>
+        <option3>x = √2</option3>
+        <option4>x = 2</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите значение выражения: sin(45°) + cos(30°)</questionText>
+        <option1>√2</option1>
+        <option2>1/2</option2>
+        <option3>√3/2</option3>
+        <option4>1</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Решите систему уравнений:
+            x^2 + y^2 = 5
+            x - y = 1</questionText>
+        <option1>x = 1, y = 0</option1>
+        <option2>x = 1, y = 2</option2>
+        <option3>x = 2, y = 1</option3>
+        <option4>x = 0, y = -1</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите площадь треугольника со сторонами 8 см, 10 см и 12 см:</questionText>
+        <option1>24 см^2</option1>
+        <option2>30 см^2</option2>
+        <option3>36 см^2</option3>
+        <option4>40 см^2</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: 2^(x + 1) = 16</questionText>
+        <option1>x = 2</option1>
+        <option2>x = 3</option2>
+        <option3>x = 4</option3>
+        <option4>x = 5</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите производную функции f(x) = ln(x^2 + 3x)</questionText>
+        <option1>f'(x) = (2x + 3)/(x^2 + 3x)</option1>
+        <option2>f'(x) = (x + 3)/(x^2 + 3x)</option2>
+        <option3>f'(x) = (2x + 3)/(x + 3)</option3>
+        <option4>f'(x) = (x + 3)/(2x + 3)</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: e^x = 5</questionText>
+        <option1>x = ln(5)</option1>
+        <option2>x = log(5)</option2>
+        <option3>x = ln(5)/ln(e)</option3>
+        <option4>x = log(5)/log(e)</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите корень уравнения: x^3 - 8 = 0</questionText>
+        <option1>x = -2</option1>
+        <option2>x = -√2</option2>
+        <option3>x = √2</option3>
+        <option4>x = 2</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Решите систему уравнений:
+            x^2 + y^2 = 9
+            x + y = 3</questionText>
+        <option1>x = 0, y = 3</option1>
+        <option2>x = 1, y = 2</option2>
+        <option3>x = 2, y = 1</option3>
+        <option4>x = 3, y = 0</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите площадь треугольника со сторонами 12 см, 16 см и 20 см:</questionText>
+        <option1>96 см^2</option1>
+        <option2>120 см^2</option2>
+        <option3>144 см^2</option3>
+        <option4>160 см^2</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите значение выражения: tan(30°) + cos(60°)</questionText>
+        <option1>√2</option1>
+        <option2>1/2</option2>
+        <option3>√3/2</option3>
+        <option4>1</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: log2(x) = 4</questionText>
+        <option1>x = 2</option1>
+        <option2>x = 8</option2>
+        <option3>x = 16</option3>
+        <option4>x = 32</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите производную функции f(x) = sqrt(x^3)</questionText>
+        <option1>f'(x) = 2x^2/3</option1>
+        <option2>f'(x) = 3x^2/2</option2>
+        <option3>f'(x) = 2x^3/3</option3>
+        <option4>f'(x) = 3x^3/2</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: 3^(x - 2) = 9</questionText>
+        <option1>x = 2</option1>
+        <option2>x = 3</option2>
+        <option3>x = 4</option3>
+        <option4>x = 5</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите корень уравнения: x^2 - 4x + 4 = 0</questionText>
+        <option1>x = 0</option1>
+        <option2>x = 1</option2>
+        <option3>x = 2</option3>
+        <option4>x = 4</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Решите систему уравнений:
+            x^2 + y^2 = 10
+            x - y = 2</questionText>
+        <option1>x = 1, y = -1</option1>
+        <option2>x = 2, y = 0</option2>
+        <option3>x = 3, y = 1</option3>
+        <option4>x = 4, y = 2</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите площадь треугольника со сторонами 15 см, 20 см и 25 см:</questionText>
+        <option1>150 см^2</option1>
+        <option2>200 см^2</option2>
+        <option3>225 см^2</option3>
+        <option4>250 см^2</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите значение выражения: sin(60°) + tan(45°)</questionText>
+        <option1>√2</option1>
+        <option2>1/2</option2>
+        <option3>√3/2</option3>
+        <option4>1</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: log10(x) = 3</questionText>
+        <option1>x = 10</option1>
+        <option2>x = 100</option2>
+        <option3>x = 1000</option3>
+        <option4>x = 10000</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите производную функции f(x) = 2sin(3x)</questionText>
+        <option1>f'(x) = 3cos(3x)</option1>
+        <option2>f'(x) = 2cos(3x)</option2>
+        <option3>f'(x) = 6cos(3x)</option3>
+        <option4>f'(x) = 2sin(3x)</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: e^(2x) = 8</questionText>
+        <option1>x = ln(2)</option1>
+        <option2>x = ln(4)</option2>
+        <option3>x = ln(8)/2</option3>
+        <option4>x = ln(16)/2</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите корень уравнения: x^3 + 27 = 0</questionText>
+        <option1>x = -3</option1>
+        <option2>x = -√3</option2>
+        <option3>x = √3</option3>
+        <option4>x = 3</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Решите систему уравнений:
+            x^2 + y^2 = 13
+            x + y = 5</questionText>
+        <option1>x = 1, y = 4</option1>
+        <option2>x = 2, y = 3</option2>
+        <option3>x = 3, y = 2</option3>
+        <option4>x = 4, y = 1</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите площадь треугольника со сторонами 24 см, 32 см и 40 см:</questionText>
+        <option1>384 см^2</option1>
+        <option2>512 см^2</option2>
+        <option3>576 см^2</option3>
+        <option4>640 см^2</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите значение выражения: cos(45°) + tan(30°)</questionText>
+        <option1>√2</option1>
+        <option2>1/2</option2>
+        <option3>√3/2</option3>
+        <option4>1</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: log3(x) = 2</questionText>
+        <option1>x = 3</option1>
+        <option2>x = 6</option2>
+        <option3>x = 9</option3>
+        <option4>x = 12</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите производную функции f(x) = ln(2x)</questionText>
+        <option1>f'(x) = 1/x</option1>
+        <option2>f'(x) = 1/2x</option2>
+        <option3>f'(x) = 2/x</option3>
+        <option4>f'(x) = 2/2x</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: 4^(x - 1) = 16</questionText>
+        <option1>x = 1</option1>
+        <option2>x = 2</option2>
+        <option3>x = 3</option3>
+        <option4>x = 4</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите корень уравнения: x^2 - 9 = 0</questionText>
+        <option1>x = -3</option1>
+        <option2>x = -√3</option2>
+        <option3>x = √3</option3>
+        <option4>x = 3</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Решите систему уравнений:
+            x^2 + y^2 = 25
+            x - y = 3</questionText>
+        <option1>x = 1, y = -2</option1>
+        <option2>x = 2, y = -1</option2>
+        <option3>x = 4, y = 1</option3>
+        <option4>x = 5, y = 2</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите площадь треугольника со сторонами 30 см, 40 см и 50 см:</questionText>
+        <option1>600 см^2</option1>
+        <option2>800 см^2</option2>
+        <option3>900 см^2</option3>
+        <option4>1000 см^2</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите значение выражения: cos(60°) + tan(45°)</questionText>
+        <option1>√2</option1>
+        <option2>1/2</option2>
+        <option3>√3/2</option3>
+        <option4>1</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: log5(x) = 2</questionText>
+        <option1>x = 5</option1>
+        <option2>x = 10</option2>
+        <option3>x = 25</option3>
+        <option4>x = 50</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите производную функции f(x) = cos(2x)</questionText>
+        <option1>f'(x) = -2sin(2x)</option1>
+        <option2>f'(x) = -2cos(2x)</option2>
+        <option3>f'(x) = -sin(2x)</option3>
+        <option4>f'(x) = -cos(2x)</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: 2^(x + 1) = 16</questionText>
+        <option1>x = 1</option1>
+        <option2>x = 2</option2>
+        <option3>x = 3</option3>
+        <option4>x = 4</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите корень уравнения: x^2 - 16 = 0</questionText>
+        <option1>x = -4</option1>
+        <option2>x = -√4</option2>
+        <option3>x = √4</option3>
+        <option4>x = 4</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Решите систему уравнений:
+            x^2 + y^2 = 20
+            x + y = 6</questionText>
+        <option1>x = 2, y = 4</option1>
+        <option2>x = 3, y = 3</option2>
+        <option3>x = 4, y = 2</option3>
+        <option4>x = 5, y = 1</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите площадь треугольника со сторонами 40 см, 50 см и 60 см:</questionText>
+        <option1>1200 см^2</option1>
+        <option2>1500 см^2</option2>
+        <option3>1800 см^2</option3>
+        <option4>2100 см^2</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите значение выражения: sin(45°) + cos(30°)</questionText>
+        <option1>√2</option1>
+        <option2>1/2</option2>
+        <option3>√3/2</option3>
+        <option4>1</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: log4(x) = 2</questionText>
+        <option1>x = 4</option1>
+        <option2>x = 8</option2>
+        <option3>x = 16</option3>
+        <option4>x = 32</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите производную функции f(x) = e^x</questionText>
+        <option1>f'(x) = e^x</option1>
+        <option2>f'(x) = 2e^x</option2>
+        <option3>f'(x) = e^(x+1)</option3>
+        <option4>f'(x) = e^(x-1)</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: 5^(x - 3) = 25</questionText>
+        <option1>x = 3</option1>
+        <option2>x = 4</option2>
+        <option3>x = 5</option3>
+        <option4>x = 6</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите корень уравнения: x^2 - 25 = 0</questionText>
+        <option1>x = -5</option1>
+        <option2>x = -√5</option2>
+        <option3>x = √5</option3>
+        <option4>x = 5</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Решите систему уравнений:
+            x^2 + y^2 = 29
+            x - y = 4</questionText>
+        <option1>x = 2, y = -2</option1>
+        <option2>x = 3, y = -1</option2>
+        <option3>x = 5, y = 1</option3>
+        <option4>x = 6, y = 2</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите площадь треугольника со сторонами 50 см, 60 см и 70 см:</questionText>
+        <option1>1500 см^2</option1>
+        <option2>1800 см^2</option2>
+        <option3>2100 см^2</option3>
+        <option4>2400 см^2</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите значение выражения: sin(30°) + tan(60°)</questionText>
+        <option1>√2</option1>
+        <option2>1/2</option2>
+        <option3>√3/2</option3>
+        <option4>1</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: log2(x) = 3</questionText>
+        <option1>x = 8</option1>
+        <option2>x = 16</option2>
+        <option3>x = 32</option3>
+        <option4>x = 64</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите производную функции f(x) = 5</questionText>
+        <option1>f'(x) = 0</option1>
+        <option2>f'(x) = 1</option2>
+        <option3>f'(x) = 5</option3>
+        <option4>f'(x) = 10</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: 6^(x + 2) = 216</questionText>
+        <option1>x = 2</option1>
+        <option2>x = 3</option2>
+        <option3>x = 4</option3>
+        <option4>x = 5</option4>
+        <correctOption>1</correctOption>
+    </question>
+</questions>

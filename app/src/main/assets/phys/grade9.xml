@@ -1,0 +1,154 @@
+<questions>
+    <question>
+        <questionText>Как называется процесс передачи тепла через неподвижные слои среды?</questionText>
+        <option1>Конвекция</option1>
+        <option2>Кондукция</option2>
+        <option3>Излучение</option3>
+        <option4>Теплопередача</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется физическая величина, равная количеству теплоты, необходимому для нагревания единицы массы вещества на один градус?</questionText>
+        <option1>Теплоемкость</option1>
+        <option2>Теплопроводность</option2>
+        <option3>Температура</option3>
+        <option4>Тепловое излучение</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон сохранения энергии в системе, где потенциальная энергия и кинетическая энергия могут превращаться друг в друга?</questionText>
+        <option1>Закон сохранения импульса</option1>
+        <option2>Закон сохранения энергии</option2>
+        <option3>Закон Архимеда</option3>
+        <option4>Закон Паскаля</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какой закон гласит, что сила тяготения между двумя телами прямо пропорциональна их массам и обратно пропорциональна квадрату расстояния между ними?</questionText>
+        <option1>Закон Архимеда</option1>
+        <option2>Закон Ампера</option2>
+        <option3>Закон Гей-Люссака</option3>
+        <option4>Закон всемирного тяготения</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется явление, при котором свет распространяется в прямолинейных лучах?</questionText>
+        <option1>Излучение</option1>
+        <option2>Дифракция</option2>
+        <option3>Дисперсия</option3>
+        <option4>Преломление</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что при изменении давления газа при постоянной температуре произведение давления на объем газа остается постоянным?</questionText>
+        <option1>Закон Архимеда</option1>
+        <option2>Закон Ампера</option2>
+        <option3>Закон Гей-Люссака</option3>
+        <option4>Закон Паскаля</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Какая единица измерения используется для измерения силы тока?</questionText>
+        <option1>Ампер</option1>
+        <option2>Вольт</option2>
+        <option3>Ом</option3>
+        <option4>Ватт</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется величина, обратная сопротивлению, и измеряющая проводимость электрического тока?</questionText>
+        <option1>Сопротивление</option1>
+        <option2>Потенциал</option2>
+        <option3>Электрическая мощность</option3>
+        <option4>Электрическая проводимость</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что сумма электрических зарядов, поступающих в узел, равна сумме электрических зарядов, выходящих из узла?</questionText>
+        <option1>Закон Кулона</option1>
+        <option2>Закон Гаусса</option2>
+        <option3>Закон Ома</option3>
+        <option4>Закон Кирхгофа</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что сила тока, протекающего через проводник, прямо пропорциональна напряжению на его концах и обратно пропорциональна его сопротивлению?</questionText>
+        <option1>Закон Ампера</option1>
+        <option2>Закон Фарадея</option2>
+        <option3>Закон Ома</option3>
+        <option4>Закон Кулона</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что сопротивление проводника прямо пропорционально его длине и обратно пропорционально площади поперечного сечения?</questionText>
+        <option1>Закон Ома</option1>
+        <option2>Закон Кулона</option2>
+        <option3>Закон Фарадея</option3>
+        <option4>Закон Ампера</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что индукция магнитного поля, создаваемого проводником с током, прямо пропорциональна силе тока и обратно пропорциональна расстоянию до проводника?</questionText>
+        <option1>Закон Ампера</option1>
+        <option2>Закон Ленца</option2>
+        <option3>Закон Фарадея</option3>
+        <option4>Закон Кулона</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что сила, действующая на проводник с током в магнитном поле, прямо пропорциональна силе тока, индукции магнитного поля и длине проводника и обратно пропорциональна синусу угла между направлениями тока и магнитного поля?</questionText>
+        <option1>Закон Фарадея</option1>
+        <option2>Закон Ампера</option2>
+        <option3>Закон Ленца</option3>
+        <option4>Закон Кулона</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что электрический заряд, движущийся в магнитном поле, ощущает на себе силу, перпендикулярную направлению движения и магнитному полю?</questionText>
+        <option1>Закон Фарадея</option1>
+        <option2>Закон Ампера</option2>
+        <option3>Закон Ленца</option3>
+        <option4>Закон Лоренца</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется величина, равная отношению работы, совершенной над телом, к перемещению этого тела?</questionText>
+        <option1>Теплота</option1>
+        <option2>Мощность</option2>
+        <option3>Сила</option3>
+        <option4>Механическая работа</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Какой закон гласит, что момент силы, действующий на тело, равен произведению силы, приложенной к телу, и перпендикулярного к ней расстояния до оси вращения?</questionText>
+        <option1>Закон Архимеда</option1>
+        <option2>Закон Ленца</option2>
+        <option3>Закон Паскаля</option3>
+        <option4>Закон моментов</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется величина, равная отношению перепада энергии к времени, в течение которого этот перепад произошел?</questionText>
+        <option1>Мощность</option1>
+        <option2>Энергия</option2>
+        <option3>Работа</option3>
+        <option4>Тепло</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что давление, создаваемое в закрытом сосуде идеальным газом, прямо пропорционально его температуре и обратно пропорционально его объему?</questionText>
+        <option1>Закон Архимеда</option1>
+        <option2>Закон Гей-Люссака</option2>
+        <option3>Закон Паскаля</option3>
+        <option4>Закон Бойля-Мариотта</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что на плавающий в жидкости или газе тело действует сила, равная весу вытесненной им жидкости или газа?</questionText>
+        <option1>Закон Бойля-Мариотта</option1>
+        <option2>Закон Паскаля</option2>
+        <option3>Закон Архимеда</option3>
+        <option4>Закон Гей-Люссака</option4>
+        <correctOption>3</correctOption>
+    </question>
+</questions>

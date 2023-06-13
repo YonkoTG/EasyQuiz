@@ -1,0 +1,154 @@
+<questions>
+    <question>
+        <questionText>Какое условие должно выполняться для того, чтобы две прямые были параллельными?</questionText>
+        <option1>Они должны иметь общую точку</option1>
+        <option2>Углы, образованные этими прямыми с третьей прямой, должны быть равными</option2>
+        <option3>Расстояние между ними должно быть постоянным</option3>
+        <option4>Они не должны иметь общих точек</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое асимптота графика функции?</questionText>
+        <option1>Прямая, которая пересекает график функции в одной точке</option1>
+        <option2>Прямая, которая ограничивает график функции</option2>
+        <option3>Прямая, которая приближается к графику функции, но не пересекает его</option3>
+        <option4>Прямая, которая пересекает график функции в нескольких точках</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется прямоугольная система координат, в которой оси не обязательно пересекаются в нуле?</questionText>
+        <option1>Декартова система координат</option1>
+        <option2>Полярная система координат</option2>
+        <option3>Цилиндрическая система координат</option3>
+        <option4>Сферическая система координат</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое частная производная функции?</questionText>
+        <option1>Производная функции в заданной точке</option1>
+        <option2>Производная функции на всем ее области определения</option2>
+        <option3>Производная функции, зависящая от нескольких переменных</option3>
+        <option4>Производная функции, обратная к исходной функции</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое график функции?</questionText>
+        <option1>Прямая, проходящая через две точки</option1>
+        <option2>Совокупность всех возможных значений функции</option2>
+        <option3>Совокупность всех точек, которые соответствуют значениям функции</option3>
+        <option4>Прямая, которая пересекает оси координат</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое система уравнений?</questionText>
+        <option1>Совокупность нескольких уравнений</option1>
+        <option2>Уравнение, в котором есть неизвестные величины</option2>
+        <option3>Уравнение, которое не имеет решений</option3>
+        <option4>Уравнение, в котором есть только одно решение</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется формула для нахождения суммы бесконечно убывающей геометрической прогрессии?</questionText>
+        <option1>Формула Эйлера</option1>
+        <option2>Формула Виета</option2>
+        <option3>Формула Герона</option3>
+        <option4>Формула арифметической прогрессии</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое матрица?</questionText>
+        <option1>Таблица, состоящая из чисел, расположенных в строках и столбцах</option1>
+        <option2>Таблица, состоящая только из нулей</option2>
+        <option3>Система уравнений, записанная в виде таблицы</option3>
+        <option4>Система неравенств, записанная в виде таблицы</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется функция, обратная к исходной функции?</questionText>
+        <option1>Производная функция</option1>
+        <option2>Интеграл функции</option2>
+        <option3>Обратная функция</option3>
+        <option4>Композиция функций</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое логарифм?</questionText>
+        <option1>Производная функции</option1>
+        <option2>Обратная функция экспоненты</option2>
+        <option3>Сумма двух чисел</option3>
+        <option4>Уравнение с неизвестными величинами</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется способ представления чисел с помощью букв и символов?</questionText>
+        <option1>Алгебраическое выражение</option1>
+        <option2>Тригонометрическое выражение</option2>
+        <option3>Логарифмическое выражение</option3>
+        <option4>Экспоненциальное выражение</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется решение уравнения, при котором одна сторона равна нулю?</questionText>
+        <option1>Линейное уравнение</option1>
+        <option2>Квадратное уравнение</option2>
+        <option3>Рациональное уравнение</option3>
+        <option4>Тривиальное уравнение</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется преобразование, которое переводит фигуру в ее зеркальное отражение?</questionText>
+        <option1>Поворот</option1>
+        <option2>Масштабирование</option2>
+        <option3>Перенос</option3>
+        <option4>Отражение</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое радикал в алгебре?</questionText>
+        <option1>Корень числа</option1>
+        <option2>Периодическая десятичная дробь</option2>
+        <option3>Иррациональное число</option3>
+        <option4>Произведение двух чисел</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется угол, который меньше 180 градусов?</questionText>
+        <option1>Острый угол</option1>
+        <option2>Тупой угол</option2>
+        <option3>Прямой угол</option3>
+        <option4>Правильный угол</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется функция, которая является обратной к функции синуса?</questionText>
+        <option1>Функция косинуса</option1>
+        <option2>Функция тангенса</option2>
+        <option3>Функция котангенса</option3>
+        <option4>Функция секанса</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое градиент функции?</questionText>
+        <option1>Производная функции в заданной точке</option1>
+        <option2>Вектор, указывающий направление наибольшего возрастания функции</option2>
+        <option3>Среднее значение функции на интервале</option3>
+        <option4>Сумма значений функции на интервале</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое определитель матрицы?</questionText>
+        <option1>Сумма элементов матрицы</option1>
+        <option2>Произведение элементов матрицы</option2>
+        <option3>Число, вычисляемое по формуле</option3>
+        <option4>Разность элементов матрицы</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется пространственная фигура, ограниченная поверхностью и плоскостью?</questionText>
+        <option1>Цилиндр</option1>
+        <option2>Пирамида</option2>
+        <option3>Параллелепипед</option3>
+        <option4>Конус</option4>
+        <correctOption>2</correctOption>
+    </question>
+</questions>

@@ -1,0 +1,170 @@
+<questions>
+    <question>
+        <questionText>Что такое операционная система?</questionText>
+        <option1>Программа для создания текстовых документов</option1>
+        <option2>Программа для выполнения математических операций</option2>
+        <option3>Программа для управления ресурсами компьютера</option3>
+        <option4>Программа для просмотра веб-страниц</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое программирование?</questionText>
+        <option1>Процесс создания программного обеспечения</option1>
+        <option2>Процесс установки компьютерных игр</option2>
+        <option3>Процесс разработки аппаратных компонентов</option3>
+        <option4>Процесс создания компьютерных вирусов</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какие типы данных существуют в программировании?</questionText>
+        <option1>Целые числа, дробные числа, строки</option1>
+        <option2>Числа, буквы, знаки препинания</option2>
+        <option3>Целые числа, дробные числа, булевы значения</option3>
+        <option4>Числа, строки, массивы</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое цикл в программировании?</questionText>
+        <option1>Структура данных для хранения информации</option1>
+        <option2>Условие, определяющее выполнение определенного кода</option2>
+        <option3>Конструкция, позволяющая повторять набор команд</option3>
+        <option4>Метод решения математической задачи</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое переменная в программировании?</questionText>
+        <option1>Специальный тип данных</option1>
+        <option2>Команда для вывода информации на экран</option2>
+        <option3>Символическое имя, связанное с определенным значением</option3>
+        <option4>Оператор для сравнения двух значений</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое база данных?</questionText>
+        <option1>Структура данных для хранения информации</option1>
+        <option2>Метод шифрования информации</option2>
+        <option3>Программа для создания текстовых документов</option3>
+        <option4>Процесс проверки кода на наличие ошибок</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое алгоритм в программировании?</questionText>
+        <option1>Специальный символ, обозначающий команду</option1>
+        <option2>Структура данных для хранения информации</option2>
+        <option3>Последовательность шагов для решения задачи</option3>
+        <option4>Метод для шифрования данных</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое функция в программировании?</questionText>
+        <option1>Команда для прерывания выполнения программы</option1>
+        <option2>Структура данных для хранения информации</option2>
+        <option3>Блок кода, выполняющий определенную операцию</option3>
+        <option4>Метод для сортировки данных в базе данных</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое HTML?</questionText>
+        <option1>Язык программирования</option1>
+        <option2>Протокол передачи данных</option2>
+        <option3>Язык разметки гипертекста</option3>
+        <option4>Компилятор программ</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое цикл while в программировании?</questionText>
+        <option1>Цикл, который выполняется определенное количество раз</option1>
+        <option2>Цикл, который выполняется до выполнения определенного условия</option2>
+        <option3>Цикл, который выполняется бесконечное количество раз</option3>
+        <option4>Цикл, который выполняется только один раз</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое массив в программировании?</questionText>
+        <option1>Структура данных для хранения информации</option1>
+        <option2>Специальная команда для вывода информации на экран</option2>
+        <option3>Метод для сортировки данных</option3>
+        <option4>Условие, определяющее выполнение определенного кода</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое интернет?</questionText>
+        <option1>Операционная система</option1>
+        <option2>Специальный вид компьютерных игр</option2>
+        <option3>Глобальная сеть, объединяющая миллионы компьютеров</option3>
+        <option4>Способ передачи данных между компьютерами</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какая программа используется для создания таблиц в электронных таблицах?</questionText>
+        <option1>Microsoft Excel</option1>
+        <option2>Adobe Photoshop</option2>
+        <option3>Notepad++</option3>
+        <option4>Google Chrome</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое оператор if в программировании?</questionText>
+        <option1>Метод для сортировки данных</option1>
+        <option2>Условие, определяющее выполнение определенного кода</option2>
+        <option3>Специальная команда для вывода информации на экран</option3>
+        <option4>Структура данных для хранения информации</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое компиляция программы?</questionText>
+        <option1>Процесс исправления ошибок в коде программы</option1>
+        <option2>Процесс запуска программы на компьютере</option2>
+        <option3>Процесс преобразования исходного кода в машинный код</option3>
+        <option4>Процесс создания интерфейса программы</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какая программа используется для создания презентаций?</questionText>
+        <option1>Microsoft PowerPoint</option1>
+        <option2>Adobe Illustrator</option2>
+        <option3>Windows Media Player</option3>
+        <option4>Mozilla Firefox</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое переменная в программировании?</questionText>
+        <option1>Специальный тип данных</option1>
+        <option2>Команда для вывода информации на экран</option2>
+        <option3>Символическое имя, связанное с определенным значением</option3>
+        <option4>Оператор для сравнения двух значений</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое база данных?</questionText>
+        <option1>Структура данных для хранения информации</option1>
+        <option2>Метод шифрования информации</option2>
+        <option3>Программа для создания текстовых документов</option3>
+        <option4>Процесс проверки кода на наличие ошибок</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какой тип данных используется для хранения целых чисел в программировании?</questionText>
+        <option1>Float</option1>
+        <option2>String</option2>
+        <option3>Integer</option3>
+        <option4>Boolean</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое цикл for в программировании?</questionText>
+        <option1>Цикл, который выполняется определенное количество раз</option1>
+        <option2>Цикл, который выполняется до выполнения определенного условия</option2>
+        <option3>Цикл, который выполняется бесконечное количество раз</option3>
+        <option4>Цикл, который выполняется только один раз</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое функция print() в языке программирования Python?</questionText>
+        <option1>Функция для ввода данных с клавиатуры</option1>
+        <option2>Функция для создания графического интерфейса</option2>
+        <option3>Функция для вывода информации на экран</option3>
+        <option4>Функция для сортировки элементов массива</option4>
+        <correctOption>3</correctOption>
+    </question>
+</questions>

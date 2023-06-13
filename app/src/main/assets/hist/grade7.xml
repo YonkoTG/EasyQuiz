@@ -1,0 +1,226 @@
+<questions>
+    <question>
+        <questionText>Кто был основателем государства Византия?</questionText>
+        <option1>Константин Великий</option1>
+        <option2>Юстиниан I</option2>
+        <option3>Октавиан Август</option3>
+        <option4>Хаммурапи</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был первым президентом США?</questionText>
+        <option1>Александр Гамильтон</option1>
+        <option2>Джордж Вашингтон</option2>
+        <option3>Томас Джефферсон</option3>
+        <option4>Авраам Линкольн</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>В каком году произошла Французская революция?</questionText>
+        <option1>1776</option1>
+        <option2>1789</option2>
+        <option3>1812</option3>
+        <option4>1848</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был последним императором России?</questionText>
+        <option1>Петр I</option1>
+        <option2>Александр II</option2>
+        <option3>Николай II</option3>
+        <option4>Иван IV</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие считается началом Первой мировой войны?</questionText>
+        <option1>Атентат в Сараево</option1>
+        <option2>Взятие Брюсселя немецкими войсками</option2>
+        <option3>Нападение Японии на Порт-Артур</option3>
+        <option4>Подписание мирного договора в Брест-Литовске</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был первым президентом России?</questionText>
+        <option1>Борис Ельцин</option1>
+        <option2>Владимир Путин</option2>
+        <option3>Михаил Горбачев</option3>
+        <option4>Дмитрий Медведев</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был основателем современной Турции?</questionText>
+        <option1>Мустафа Кемаль Ататюрк</option1>
+        <option2>Сулейман Великолепный</option2>
+        <option3>Мехмед II</option3>
+        <option4>Тамерлан</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>В каком году произошла Великая Октябрьская социалистическая революция?</questionText>
+        <option1>1905</option1>
+        <option2>1917</option2>
+        <option3>1922</option3>
+        <option4>1945</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был основателем первой русской династии?</questionText>
+        <option1>Рюрик</option1>
+        <option2>Олег</option2>
+        <option3>Игорь</option3>
+        <option4>Олег</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>В каком году произошло крещение Руси?</questionText>
+        <option1>862</option1>
+        <option2>988</option2>
+        <option3>1016</option3>
+        <option4>1054</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какой князь правил Киевской Русью во время монгольского ига?</questionText>
+        <option1>Ярослав Мудрый</option1>
+        <option2>Владимир Мономах</option2>
+        <option3>Александр Невский</option3>
+        <option4>Даниил Галицкий</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие считается концом Второй мировой войны в Европе?</questionText>
+        <option1>Подписание Акта о безусловной капитуляции Германии</option1>
+        <option2>Подписание Потсдамского соглашения</option2>
+        <option3>Бомбардировка Хиросимы и Нагасаки</option3>
+        <option4>Взятие Берлина Советской Армией</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был основателем первой русской империи?</questionText>
+        <option1>Иван Грозный</option1>
+        <option2>Петр I</option2>
+        <option3>Екатерина II</option3>
+        <option4>Александр I</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>В каком году была провозглашена Независимость США?</questionText>
+        <option1>1754</option1>
+        <option2>1776</option2>
+        <option3>1789</option3>
+        <option4>1812</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был последним фараоном Древнего Египта?</questionText>
+        <option1>Хеопс</option1>
+        <option2>Рамзес II</option2>
+        <option3>Клеопатра VII</option3>
+        <option4>Аменхотеп IV (Эхнатон)</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие считается началом Первой мировой войны?</questionText>
+        <option1>Атентат в Сараево</option1>
+        <option2>Взятие Брюсселя немецкими войсками</option2>
+        <option3>Нападение Японии на Порт-Артур</option3>
+        <option4>Подписание мирного договора в Брест-Литовске</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был первым президентом США?</questionText>
+        <option1>Александр Гамильтон</option1>
+        <option2>Джордж Вашингтон</option2>
+        <option3>Томас Джефферсон</option3>
+        <option4>Джеймс Мэдисон</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Когда была основана Римская империя?</questionText>
+        <option1>27 год до н.э.</option1>
+        <option2>476 год</option2>
+        <option3>476 год до н.э.</option3>
+        <option4>27 год</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был первым императором Римской империи?</questionText>
+        <option1>Цезарь</option1>
+        <option2>Октавиан Август</option2>
+        <option3>Нерон</option3>
+        <option4>Тиберий</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какой период в истории Европы называется Средневековьем?</questionText>
+        <option1>Византийская империя</option1>
+        <option2>Раннее средневековье</option2>
+        <option3>Возрождение</option3>
+        <option4>Новое время</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Кто правил Великобританией во время Американской революции?</questionText>
+        <option1>Генрих VIII</option1>
+        <option2>Елизавета I</option2>
+        <option3>Джордж III</option3>
+        <option4>Виктория</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие считается началом Первой мировой войны?</questionText>
+        <option1>Атентат в Сараево</option1>
+        <option2>Взятие Брюсселя немецкими войсками</option2>
+        <option3>Нападение Японии на Порт-Артур</option3>
+        <option4>Подписание мирного договора в Брест-Литовске</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был основателем династии Маурьев в Древней Индии?</questionText>
+        <option1>Ашока</option1>
+        <option2>Чандрагупта Маурья</option2>
+        <option3>Харшавардхана</option3>
+        <option4>Калидаса</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был основателем династии Хан в Монгольской империи?</questionText>
+        <option1>Джингисхан</option1>
+        <option2>Тамерлан</option2>
+        <option3>Батый</option3>
+        <option4>Кублайхан</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>В каком году началась Реформация в Западной Европе?</questionText>
+        <option1>1453</option1>
+        <option2>1517</option2>
+        <option3>1618</option3>
+        <option4>1688</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был основателем династии Тюдоров в Англии?</questionText>
+        <option1>Генрих VII</option1>
+        <option2>Ричард III</option2>
+        <option3>Генрих VIII</option3>
+        <option4>Елизавета I</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был основателем первой государственной династии в Китае?</questionText>
+        <option1>Цинь Шихуанди</option1>
+        <option2>Лю Бан</option2>
+        <option3>Конфуций</option3>
+        <option4>Мао Цзэдун</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>В каком году произошло открытие Америки Кристофором Колумбом?</questionText>
+        <option1>1492</option1>
+        <option2>1519</option2>
+        <option3>1588</option3>
+        <option4>1607</option4>
+        <correctOption>1</correctOption>
+    </question>
+</questions>

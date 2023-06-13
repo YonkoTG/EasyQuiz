@@ -1,0 +1,234 @@
+<questions>
+    <question>
+        <questionText>Какая династия правила в Древнем Египте в период Нового царства?</questionText>
+        <option1>Гаммури</option1>
+        <option2>Птулеомеи</option2>
+        <option3>Тудоры</option3>
+        <option4>Рамессиды</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был основателем Ахеменидской династии в Древней Персии?</questionText>
+        <option1>Дарий I</option1>
+        <option2>Кир I</option2>
+        <option3>Ксеркс I</option3>
+        <option4>Камбиз II</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был первым императором Римской империи?</questionText>
+        <option1>Цезарь</option1>
+        <option2>Август</option2>
+        <option3>Тиберий</option3>
+        <option4>Нерон</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какой султан правил Османской империей во время ее расцвета в 16 веке?</questionText>
+        <option1>Сулейман I</option1>
+        <option2>Мехмед II</option2>
+        <option3>Сулейман II</option3>
+        <option4>Мустафа I</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был основателем династии Маори в Новой Зеландии?</questionText>
+        <option1>Джеймс Кук</option1>
+        <option2>Тупайа</option2>
+        <option3>Хонги Хика</option3>
+        <option4>Тамати Вапа</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Когда началась Французская революция?</questionText>
+        <option1>1765</option1>
+        <option2>1776</option2>
+        <option3>1789</option3>
+        <option4>1812</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был автором книги "1984"?</questionText>
+        <option1>Джордж Оруэлл</option1>
+        <option2>Алдоус Хаксли</option2>
+        <option3>Рэй Брэдбери</option3>
+        <option4>Айзек Азимов</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто стал первым президентом России после распада СССР?</questionText>
+        <option1>Борис Ельцин</option1>
+        <option2>Владимир Путин</option2>
+        <option3>Михаил Горбачев</option3>
+        <option4>Дмитрий Медведев</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Когда произошла Октябрьская революция в России?</questionText>
+        <option1>1914</option1>
+        <option2>1917</option2>
+        <option3>1921</option3>
+        <option4>1939</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие стало причиной начала Первой мировой войны?</questionText>
+        <option1>Убийство Франца Фердинанда</option1>
+        <option2>Взятие Брюсселя немецкими войсками</option2>
+        <option3>Нападение Японии на Порт-Артур</option3>
+        <option4>Подписание мирного договора в Брест-Литовске</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был премьер-министром Великобритании во время Второй мировой войны?</questionText>
+        <option1>Уинстон Черчилль</option1>
+        <option2>Невилл Чемберлен</option2>
+        <option3>Клемент Атли</option3>
+        <option4>Маргарет Тэтчер</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был лидером советского Союза во время Кубинского ракетного кризиса?</questionText>
+        <option1>Владимир Ленин</option1>
+        <option2>Никита Хрущев</option2>
+        <option3>Иосиф Сталин</option3>
+        <option4>Михаил Горбачев</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был лидером гражданского движения за права чернокожих в США в 1960-х годах?</questionText>
+        <option1>Роза Паркс</option1>
+        <option2>Малкольм Икс</option2>
+        <option3>Мартин Лютер Кинг</option3>
+        <option4>Джон Льюис</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какая страна была лидером в процессе деколонизации Африки во второй половине 20 века?</questionText>
+        <option1>Великобритания</option1>
+        <option2>Франция</option2>
+        <option3>США</option3>
+        <option4>Португалия</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был основателем европейской колонизации в Южной Америке?</questionText>
+        <option1>Христофор Колумб</option1>
+        <option2>Америго Веспуччи</option2>
+        <option3>Фернан Магеллан</option3>
+        <option4>Франсиско Писарро</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Какая страна являлась колониальной державой во время Англо-бурской войны в Южной Африке?</questionText>
+        <option1>Франция</option1>
+        <option2>Германия</option2>
+        <option3>Великобритания</option3>
+        <option4>Италия</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие положило конец Холодной войны?</questionText>
+        <option1>Распад СССР</option1>
+        <option2>Взятие Берлинской стены</option2>
+        <option3>Подписание договора СОТ</option3>
+        <option4>Создание Европейского союза</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какая война была первой в истории, в которой были применены ядерное оружие?</questionText>
+        <option1>Первая мировая война</option1>
+        <option2>Вторая мировая война</option2>
+        <option3>Корейская война</option3>
+        <option4>Вьетнамская война</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какая страна провела первую космическую экспедицию в истории человечества?</questionText>
+        <option1>СССР</option1>
+        <option2>США</option2>
+        <option3>Китай</option3>
+        <option4>Индия</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто стал первым президентом Южной Африки после отмены политики апартеида?</questionText>
+        <option1>Нельсон Мандела</option1>
+        <option2>Фредерик де Клерк</option2>
+        <option3>Юлиус Малема</option3>
+        <option4>Табо Мбеки</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие стало причиной начала Первой мировой войны?</questionText>
+        <option1>Убийство Франца Фердинанда</option1>
+        <option2>Взятие Брюсселя немецкими войсками</option2>
+        <option3>Нападение Японии на Порт-Артур</option3>
+        <option4>Подписание мирного договора в Брест-Литовске</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был премьер-министром Великобритании во время Второй мировой войны?</questionText>
+        <option1>Уинстон Черчилль</option1>
+        <option2>Невилл Чемберлен</option2>
+        <option3>Клемент Атли</option3>
+        <option4>Маргарет Тэтчер</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был лидером советского Союза во время Кубинского ракетного кризиса?</questionText>
+        <option1>Владимир Ленин</option1>
+        <option2>Никита Хрущев</option2>
+        <option3>Иосиф Сталин</option3>
+        <option4>Михаил Горбачев</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был лидером гражданского движения за права чернокожих в США в 1960-х годах?</questionText>
+        <option1>Роза Паркс</option1>
+        <option2>Малкольм Икс</option2>
+        <option3>Мартин Лютер Кинг</option3>
+        <option4>Джон Льюис</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какая страна являлась колониальной державой во время Англо-бурской войны в Южной Африке?</questionText>
+        <option1>Франция</option1>
+        <option2>Германия</option2>
+        <option3>Великобритания</option3>
+        <option4>Италия</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие положило конец Холодной войны?</questionText>
+        <option1>Распад СССР</option1>
+        <option2>Взятие Берлинской стены</option2>
+        <option3>Подписание договора СОТ</option3>
+        <option4>Создание Европейского союза</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какая война была первой в истории, в которой были применены ядерное оружие?</questionText>
+        <option1>Первая мировая война</option1>
+        <option2>Вторая мировая война</option2>
+        <option3>Корейская война</option3>
+        <option4>Вьетнамская война</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какая страна провела первую космическую экспедицию в истории человечества?</questionText>
+        <option1>СССР</option1>
+        <option2>США</option2>
+        <option3>Китай</option3>
+        <option4>Индия</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто стал первым президентом Южной Африки после отмены политики апартеида?</questionText>
+        <option1>Нельсон Мандела</option1>
+        <option2>Фредерик де Клерк</option2>
+        <option3>Юлиус Малема</option3>
+        <option4>Табо Мбеки</option4>
+        <correctOption>2</correctOption>
+    </question>
+</questions>

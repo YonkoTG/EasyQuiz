@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">EasyQuiz</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="wel_but">Далее!</string>
+    <string name="menu">Меню</string>
+    <string name="start">Начать тест</string>
+    <string name="store">История тестов</string>
+    <string name="about">Помощь</string>
+    <string name="math">Математика</string>
+    <string name="it">Информатика</string>
+    <string name="phys">Физика</string>
+    <string name="russ">Русский язык</string>
+    <string name="hist">История</string>
+    <string name="imstart">Старт</string>
+    <string name="imhistory">История тестов</string>
+    <string name="imabout">Помощь</string>
+    <string name="back">Назад</string>
+    <string name="optiontest">Выбор теста</string>
+    <string name="optionclass">Выбор класса</string>
+    <string name="class7">7 класс</string>
+    <string name="class8">8 класс</string>
+    <string name="class9">9 класс</string>
+    <string name="class10">10 класс</string>
+    <string name="class11">11 класс</string>
+
+</resources>

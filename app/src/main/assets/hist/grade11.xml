@@ -1,0 +1,226 @@
+<questions>
+    <question>
+        <questionText>Какая страна была первой, отправившей человека в космос?</questionText>
+        <option1>США</option1>
+        <option2>СССР</option2>
+        <option3>Китай</option3>
+        <option4>Франция</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие стало началом Первой мировой войны?</questionText>
+        <option1>Убийство Архидука Франца Фердинанда</option1>
+        <option2>Подписание Брест-Литовского мирного договора</option2>
+        <option3>Провозглашение независимости Италии</option3>
+        <option4>Подписание Версальского мирного договора</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какая страна использовала атомное оружие во время Второй мировой войны?</questionText>
+        <option1>США</option1>
+        <option2>СССР</option2>
+        <option3>Великобритания</option3>
+        <option4>Германия</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какая доктрина провозглашала право США вмешиваться в дела стран Латинской Америки для защиты своих интересов?</questionText>
+        <option1>Доктрина Монро</option1>
+        <option2>Доктрина Трумэна</option2>
+        <option3>Доктрина Брежнева</option3>
+        <option4>Доктрина Киссинджера</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был последним императором Германии до провозглашения Веймарской республики?</questionText>
+        <option1>Вильгельм I</option1>
+        <option2>Фридрих III</option2>
+        <option3>Вильгельм II</option3>
+        <option4>Адольф Гитлер</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие стало причиной начала Второй мировой войны в Европе?</questionText>
+        <option1>Нападение Германии на Польшу</option1>
+        <option2>Подписание Мюнхенского договора</option2>
+        <option3>Провозглашение независимости Чехословакии</option3>
+        <option4>Распад Австро-Венгрии</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какой договор положил конец Первой мировой войне?</questionText>
+        <option1>Брест-Литовский мирный договор</option1>
+        <option2>Версальский мирный договор</option2>
+        <option3>Трианонский мирный договор</option3>
+        <option4>Северный Атлантический договор</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был лидером нацистской Германии во время Второй мировой войны?</questionText>
+        <option1>Адольф Гитлер</option1>
+        <option2>Бенито Муссолини</option2>
+        <option3>Хирохито</option3>
+        <option4>Йозеф Сталин</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какая страна была первой, отправившей женщину-космонавта в космос?</questionText>
+        <option1>США</option1>
+        <option2>СССР</option2>
+        <option3>Китай</option3>
+        <option4>Франция</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был последним императором России?</questionText>
+        <option1>Александр II</option1>
+        <option2>Александр III</option2>
+        <option3>Николай II</option3>
+        <option4>Петр I</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие стало причиной Февральской революции 1917 года в России?</questionText>
+        <option1>Военные поражения России в Первой мировой войне</option1>
+        <option2>Убийство царской семьи</option2>
+        <option3>Объявление буржуазной республики</option3>
+        <option4>Распад Советского Союза</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какая страна стала первой социалистической страной в мире?</questionText>
+        <option1>Россия</option1>
+        <option2>Германия</option2>
+        <option3>Франция</option3>
+        <option4>Китай</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие стало началом Великой Отечественной войны?</questionText>
+        <option1>Нападение Германии на Советский Союз</option1>
+        <option2>Заключение Молотова-Риббентропа пакта</option2>
+        <option3>Подписание Версальского договора</option3>
+        <option4>Распад Австро-Венгрии</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какой год считается началом Великой Отечественной войны?</questionText>
+        <option1>1939</option1>
+        <option2>1940</option2>
+        <option3>1941</option3>
+        <option4>1945</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был лидером СССР во время Великой Отечественной войны?</questionText>
+        <option1>Владимир Ленин</option1>
+        <option2>Иосиф Сталин</option2>
+        <option3>Лев Троцкий</option3>
+        <option4>Никита Хрущев</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какой период в истории СССР называется "оттепелью"?</questionText>
+        <option1>Послевоенные годы</option1>
+        <option2>Период Гражданской войны</option2>
+        <option3>Эпоха Горбачева</option3>
+        <option4>Политика "застоя"</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие стало причиной распада СССР?</questionText>
+        <option1>Падение Берлинской стены</option1>
+        <option2>Реформы Михаила Горбачева</option2>
+        <option3>События "Черного Вторника"</option3>
+        <option4>Кризис Карибского кризиса</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какая страна первой разработала ядерное оружие?</questionText>
+        <option1>США</option1>
+        <option2>СССР</option2>
+        <option3>Великобритания</option3>
+        <option4>Германия</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был последним президентом СССР?</questionText>
+        <option1>Михаил Горбачев</option1>
+        <option2>Владимир Путин</option2>
+        <option3>Борис Ельцин</option3>
+        <option4>Дмитрий Медведев</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какая страна была первой, запустившей искусственный спутник Земли?</questionText>
+        <option1>США</option1>
+        <option2>СССР</option2>
+        <option3>Китай</option3>
+        <option4>Франция</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Кто является основателем Европейского союза?</questionText>
+        <option1>Аденавер</option1>
+        <option2>Шуман</option2>
+        <option3>Меркель</option3>
+        <option4>Мацер</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какой документ был принят на Съезде народных депутатов РСФСР и стал началом перестройки в СССР?</questionText>
+        <option1>Манифест Ленина</option1>
+        <option2>Декларация прав человека</option2>
+        <option3>Резолюция ВЧК</option3>
+        <option4>Программа НЭПа</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Какой период в истории России называется "монгольским игом"?</questionText>
+        <option1>Царствование Петра I</option1>
+        <option2>Времена Тревоги</option2>
+        <option3>Монгольское нашествие</option3>
+        <option4>Политика "раздел и правление"</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был первым царем всея Руси?</questionText>
+        <option1>Иван Грозный</option1>
+        <option2>Владимир Мономах</option2>
+        <option3>Иван Калита</option3>
+        <option4>Иван IV</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Кто провел перепись населения в Российской империи в 1897 году?</questionText>
+        <option1>Александр II</option1>
+        <option2>Николай I</option2>
+        <option3>Николай II</option3>
+        <option4>Александр III</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какая страна была основной противницей СССР во время Холодной войны?</questionText>
+        <option1>Германия</option1>
+        <option2>США</option2>
+        <option3>Франция</option3>
+        <option4>Китай</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие стало началом Холодной войны?</questionText>
+        <option1>Берлинский блокада</option1>
+        <option2>Падение Берлинской стены</option2>
+        <option3>Бомбардировка Хиросимы и Нагасаки</option3>
+        <option4>Распад СССР</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какая страна разработала первую ядерную бомбу?</questionText>
+        <option1>США</option1>
+        <option2>СССР</option2>
+        <option3>Великобритания</option3>
+        <option4>Китай</option4>
+        <correctOption>1</correctOption>
+    </question>
+</questions>

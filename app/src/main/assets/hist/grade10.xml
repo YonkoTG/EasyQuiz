@@ -1,0 +1,227 @@
+<questions>
+    <question>
+        <questionText>Кто был первым князем Киевской Руси?</questionText>
+        <option1>Олег</option1>
+        <option2>Рюрик</option2>
+        <option3>Игорь</option3>
+        <option4>Владимир</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие положило начало Монгольскому игу?</questionText>
+        <option1>Битва на реке Калке</option1>
+        <option2>Сражение на Курске</option2>
+        <option3>Подписание Перемышльского соглашения</option3>
+        <option4>Основание города Твери</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был президентом Российской Федерации в 1991 году?</questionText>
+        <option1>Борис Ельцин</option1>
+        <option2>Владимир Путин</option2>
+        <option3>Михаил Горбачев</option3>
+        <option4>Дмитрий Медведев</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие положило начало Великой Отечественной войны?</questionText>
+        <option1>Война с Финляндией</option1>
+        <option2>Нападение Германии на СССР</option2>
+        <option3>Сражение под Москвой</option3>
+        <option4>Капитуляция Италии</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Кто возглавлял СССР во время Великой Отечественной войны?</questionText>
+        <option1>Иосиф Сталин</option1>
+        <option2>Леонид Брежнев</option2>
+        <option3>Михаил Горбачев</option3>
+        <option4>Никита Хрущев</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие положило конец СССР?</questionText>
+        <option1>Подписание Сталинградской декларации</option1>
+        <option2>Перестройка Горбачева</option2>
+        <option3>Распад Варшавского договора</option3>
+        <option4>Путч августа 1991 года</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие положило начало Первой мировой войны?</questionText>
+        <option1>Убийство Франца Фердинанда</option1>
+        <option2>Война России с Японией</option2>
+        <option3>Подписание Версальского договора</option3>
+        <option4>Начало антикоммунистической революции</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие положило начало Второй мировой войны?</questionText>
+        <option1>Нападение Германии на Польшу</option1>
+        <option2>Сражение при Сталинграде</option2>
+        <option3>Основание Организации Объединенных Наций</option3>
+        <option4>Подписание Мюнхенского соглашения</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие положило конец Второй мировой войны в Европе?</questionText>
+        <option1>Капитуляция Германии</option1>
+        <option2>Подписание Атлантической хартии</option2>
+        <option3>Бомбардировка Хиросимы и Нагасаки</option3>
+        <option4>Распад Советского Союза</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие положило начало Холодной войны?</questionText>
+        <option1>Берлинский кризис</option1>
+        <option2>Создание Варшавского договора</option2>
+        <option3>Образование Советского Союза</option3>
+        <option4>Выступление Уинстона Черчилля</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был лидером Советского Союза во время Холодной войны?</questionText>
+        <option1>Иосиф Сталин</option1>
+        <option2>Леонид Брежнев</option2>
+        <option3>Никита Хрущев</option3>
+        <option4>Михаил Горбачев</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие привело к падению Берлинской стены в 1989 году?</questionText>
+        <option1>Операция "Барбаросса"</option1>
+        <option2>Падение коммунистического режима в Польше</option2>
+        <option3>Встреча Горбачева и Рейгана в Рейкьявике</option3>
+        <option4>Массовые протесты в ГДР</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Какой документ положил конец Холодной войне?</questionText>
+        <option1>Договор о нераспространении ядерного оружия</option1>
+        <option2>Договор о ликвидации ракет средней и меньшей дальности</option2>
+        <option3>Договор о демилитаризации Алеппской области</option3>
+        <option4>Договор о ликвидации стратегических ядерных ракет</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был лидером США во время Кубинского ракетного кризиса?</questionText>
+        <option1>Джон Кеннеди</option1>
+        <option2>Ричард Никсон</option2>
+        <option3>Джимми Картер</option3>
+        <option4>Джордж Буш</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какая революция стала важным этапом в истории Китая и привела к установлению коммунистического режима?</questionText>
+        <option1>Октябрьская революция</option1>
+        <option2>Великая Французская революция</option2>
+        <option3>Культурная революция</option3>
+        <option4>Китайская революция 1949 года</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был лидером Индийского национального движения за независимость от Великобритании?</questionText>
+        <option1>Махатма Ганди</option1>
+        <option2>Джавахарлал Неру</option2>
+        <option3>Василий Владимирович Смирнов</option3>
+        <option4>Субхаш Чандра Боз</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие стало причиной начала Корейской войны?</questionText>
+        <option1>Вторжение США в КНДР</option1>
+        <option2>Провозглашение КНДР и Южной Кореей</option2>
+        <option3>Подписание Женевского соглашения</option3>
+        <option4>Бомбардировка Перла Харбора</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был лидером Кубинской революции в 1959 году?</questionText>
+        <option1>Фидель Кастро</option1>
+        <option2>Че Гевара</option2>
+        <option3>Никита Хрущев</option3>
+        <option4>Хуго Чавес</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие привело к созданию Европейского Союза?</questionText>
+        <option1>Падение Берлинской стены</option1>
+        <option2>Подписание Маастрихтского договора</option2>
+        <option3>Создание НАТО</option3>
+        <option4>Распад СССР</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какая страна была первой, отправившей человека в космос?</questionText>
+        <option1>США</option1>
+        <option2>СССР</option2>
+        <option3>Китай</option3>
+        <option4>Франция</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие стало началом Первой мировой войны?</questionText>
+        <option1>Убийство Архидука Франца Фердинанда</option1>
+        <option2>Подписание Брест-Литовского мирного договора</option2>
+        <option3>Провозглашение независимости Италии</option3>
+        <option4>Подписание Версальского мирного договора</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какая страна использовала атомное оружие во время Второй мировой войны?</questionText>
+        <option1>США</option1>
+        <option2>СССР</option2>
+        <option3>Великобритания</option3>
+        <option4>Германия</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какая доктрина провозглашала право США вмешиваться в дела стран Латинской Америки для защиты своих интересов?</questionText>
+        <option1>Доктрина Монро</option1>
+        <option2>Доктрина Трумэна</option2>
+        <option3>Доктрина Брежнева</option3>
+        <option4>Доктрина Киссинджера</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был последним императором Германии до провозглашения Веймарской республики?</questionText>
+        <option1>Вильгельм I</option1>
+        <option2>Фридрих III</option2>
+        <option3>Вильгельм II</option3>
+        <option4>Адольф Гитлер</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие стало причиной начала Второй мировой войны в Европе?</questionText>
+        <option1>Нападение Германии на Польшу</option1>
+        <option2>Подписание Мюнхенского договора</option2>
+        <option3>Провозглашение независимости Чехословакии</option3>
+        <option4>Распад Австро-Венгрии</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какой договор положил конец Первой мировой войне?</questionText>
+        <option1>Брест-Литовский мирный договор</option1>
+        <option2>Версальский мирный договор</option2>
+        <option3>Трианонский мирный договор</option3>
+        <option4>Северный Атлантический договор</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был лидером нацистской Германии во время Второй мировой войны?</questionText>
+        <option1>Адольф Гитлер</option1>
+        <option2>Бенито Муссолини</option2>
+        <option3>Хирохито</option3>
+        <option4>Йозеф Сталин</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какая страна была первой, отправившей женщину-космонавта в космос?</questionText>
+        <option1>США</option1>
+        <option2>СССР</option2>
+        <option3>Китай</option3>
+        <option4>Франция</option4>
+        <correctOption>2</correctOption>
+    </question>
+</questions>
+

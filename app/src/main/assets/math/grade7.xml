@@ -1,0 +1,210 @@
+<questions>
+    <question>
+        <questionText>Чему равно значение выражения 3 + 4 * 2?</questionText>
+        <option1>11</option1>
+        <option2>14</option2>
+        <option3>7</option3>
+        <option4>21</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое число называется натуральным?</questionText>
+        <option1>Отрицательное число</option1>
+        <option2>Дробное число</option2>
+        <option3>Целое положительное число</option3>
+        <option4>Все вышеперечисленные числа</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какое число является решением уравнения x^2 - 9 = 0?</questionText>
+        <option1>3</option1>
+        <option2>9</option2>
+        <option3>-3</option3>
+        <option4>-9</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое периметр фигуры?</questionText>
+        <option1>Площадь фигуры</option1>
+        <option2>Сумма длин всех сторон фигуры</option2>
+        <option3>Расстояние между двумя точками фигуры</option3>
+        <option4>Угол между двумя сторонами фигуры</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какой тип угла образуют две перпендикулярные прямые?</questionText>
+        <option1>Острый угол</option1>
+        <option2>Тупой угол</option2>
+        <option3>Прямой угол</option3>
+        <option4>Нет правильного ответа</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какой тип треугольника имеет все стороны разной длины?</questionText>
+        <option1>Равнобедренный треугольник</option1>
+        <option2>Равносторонний треугольник</option2>
+        <option3>Прямоугольный треугольник</option3>
+        <option4>Разносторонний треугольник</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое десятичная дробь?</questionText>
+        <option1>Дробное число с ненулевой целой частью</option1>
+        <option2>Дробное число, записанное с использованием десятичной системы счисления</option2>
+        <option3>Дробное число, оканчивающееся на ноль</option3>
+        <option4>Дробное число, которое можно представить в виде обыкновенной дроби</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется линия, которая разделяет плоскость на две равные части?</questionText>
+        <option1>Прямая</option1>
+        <option2>Отрезок</option2>
+        <option3>Полупрямая</option3>
+        <option4>Плоскость</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Чему равно значение выражения 2a - 3b при a = 4 и b = 2?</questionText>
+        <option1>2</option1>
+        <option2>4</option2>
+        <option3>6</option3>
+        <option4>8</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется процесс нахождения обратного числа?</questionText>
+        <option1>Сложение</option1>
+        <option2>Умножение</option2>
+        <option3>Деление</option3>
+        <option4>Инверсия</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое среднее арифметическое двух чисел?</questionText>
+        <option1>Сумма чисел, деленная на их количество</option1>
+        <option2>Разность чисел</option2>
+        <option3>Произведение чисел</option3>
+        <option4>Остаток от деления чисел</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое число называется простым?</questionText>
+        <option1>Число, которое делится нацело только на 1 и на само себя</option1>
+        <option2>Число, которое делится нацело на любое другое число</option2>
+        <option3>Число, которое имеет десятичную дробную часть</option3>
+        <option4>Число, которое является квадратом другого числа</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется трехмерная фигура с 6 гранями, 12 ребрами и 8 вершинами?</questionText>
+        <option1>Шар</option1>
+        <option2>Пирамида</option2>
+        <option3>Параллелепипед</option3>
+        <option4>Куб</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется геометрическая фигура, у которой все стороны и углы равны?</questionText>
+        <option1>Параллелограмм</option1>
+        <option2>Трапеция</option2>
+        <option3>Ромб</option3>
+        <option4>Квадрат</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое объем фигуры?</questionText>
+        <option1>Площадь поверхности фигуры</option1>
+        <option2>Сумма длин всех сторон фигуры</option2>
+        <option3>Пространство, занимаемое фигурой</option3>
+        <option4>Угол между двумя сторонами фигуры</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое корень квадратный числа?</questionText>
+        <option1>Число, возведенное в квадрат</option1>
+        <option2>Число, при умножении на себя дает заданное число</option2>
+        <option3>Число, обратное заданному числу</option3>
+        <option4>Число, которое делится на заданное число без остатка</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется параллелограмм, у которого все стороны и углы равны?</questionText>
+        <option1>Прямоугольник</option1>
+        <option2>Ромб</option2>
+        <option3>Трапеция</option3>
+        <option4>Квадрат</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое медиана треугольника?</questionText>
+        <option1>Линия, соединяющая две вершины треугольника</option1>
+        <option2>Линия, проходящая через середину стороны треугольника</option2>
+        <option3>Линия, проходящая через центр вписанной окружности треугольника</option3>
+        <option4>Линия, проходящая через центр описанной окружности треугольника</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется угол, который меньше прямого угла?</questionText>
+        <option1>Острый угол</option1>
+        <option2>Тупой угол</option2>
+        <option3>Прямой угол</option3>
+        <option4>Нет правильного ответа</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется треугольник, у которого все три угла меньше 90 градусов?</questionText>
+        <option1>Равнобедренный треугольник</option1>
+        <option2>Равносторонний треугольник</option2>
+        <option3>Прямоугольный треугольник</option3>
+        <option4>Остроугольный треугольник</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое десятичная дробь?</questionText>
+        <option1>Дробное число с ненулевой целой частью</option1>
+        <option2>Дробное число, записанное с использованием десятичной системы счисления</option2>
+        <option3>Дробное число, оканчивающееся на ноль</option3>
+        <option4>Дробное число, которое можно представить в виде обыкновенной дроби</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется линия, которая разделяет плоскость на две равные части?</questionText>
+        <option1>Прямая</option1>
+        <option2>Отрезок</option2>
+        <option3>Полупрямая</option3>
+        <option4>Плоскость</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Чему равно значение выражения 2a - 3b при a = 4 и b = 2?</questionText>
+        <option1>2</option1>
+        <option2>4</option2>
+        <option3>6</option3>
+        <option4>8</option4>
+        <correctOption>6</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется процесс нахождения обратного числа?</questionText>
+        <option1>Сложение</option1>
+        <option2>Умножение</option2>
+        <option3>Деление</option3>
+        <option4>Инверсия</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется прямоугольник, у которого все стороны равны?</questionText>
+        <option1>Прямоугольник</option1>
+        <option2>Ромб</option2>
+        <option3>Квадрат</option3>
+        <option4>Параллелограмм</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое гипотенуза прямоугольного треугольника?</questionText>
+        <option1>Линия, соединяющая две вершины треугольника</option1>
+        <option2>Самая длинная сторона треугольника</option2>
+        <option3>Линия, проходящая через центр вписанной окружности треугольника</option3>
+        <option4>Линия, проходящая через центр описанной окружности треугольника</option4>
+        <correctOption>2</correctOption>
+    </question>
+</questions>

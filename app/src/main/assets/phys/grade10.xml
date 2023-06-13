@@ -1,0 +1,154 @@
+<questions>
+    <question>
+        <questionText>Что такое электромагнитное излучение?</questionText>
+        <option1>Излучение, возникающее при нагревании тела</option1>
+        <option2>Излучение, возникающее при прохождении электрического тока через проводник</option2>
+        <option3>Излучение, состоящее из электрического и магнитного поля, распространяющееся в виде волн</option3>
+        <option4>Излучение, происходящее в результате ядерных реакций</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое квантовая механика?</questionText>
+        <option1>Основное положение электрической цепи</option1>
+        <option2>Область физики, которая описывает поведение частиц на микроуровне</option2>
+        <option3>Изменение положения тела под действием силы</option3>
+        <option4>Произведение силы на путь, пройденный телом</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое криволинейное движение?</questionText>
+        <option1>Движение по прямой линии с постоянной скоростью</option1>
+        <option2>Движение по окружности с постоянной скоростью</option2>
+        <option3>Движение по траектории, которая не является прямой линией или окружностью</option3>
+        <option4>Движение с переменной скоростью</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое энергия связи ядра?</questionText>
+        <option1>Энергия, необходимая для разрушения ядра на отдельные нуклоны</option1>
+        <option2>Энергия, которая выделяется или поглощается при ядерных реакциях</option2>
+        <option3>Энергия, которую обладает ядро, связанная с его массой и связанной с ней энергией</option3>
+        <option4>Энергия, связанная с движением электронов в атоме</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое уравнение описывает закон всемирного тяготения?</questionText>
+        <option1>Уравнение Максвелла</option1>
+        <option2>Уравнение Ампера</option2>
+        <option3>Уравнение Эйнштейна</option3>
+        <option4>Уравнение Ньютона</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое магнитное поле?</questionText>
+        <option1>Сила, с которой тело воздействует на окружающие объекты</option1>
+        <option2>Область вокруг магнита, в которой ощущается его воздействие</option2>
+        <option3>Сила, действующая на тело в результате вращения Земли</option3>
+        <option4>Сила, препятствующая движению тела в среде</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое электромагнитная индукция?</questionText>
+        <option1>Явление возникновения электрического тока в проводнике при изменении магнитного поля</option1>
+        <option2>Явление возникновения магнитного поля при прохождении электрического тока через проводник</option2>
+        <option3>Явление преломления света при переходе из одной среды в другую</option3>
+        <option4>Явление отражения света от поверхности</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какая единица измерения используется для измерения силы тока в системе СИ?</questionText>
+        <option1>Вольт</option1>
+        <option2>Ампер</option2>
+        <option3>Ом</option3>
+        <option4>Кулон</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое внутренняя энергия вещества?</questionText>
+        <option1>Сумма кинетической и потенциальной энергии частиц вещества</option1>
+        <option2>Энергия, возникающая при нагревании вещества</option2>
+        <option3>Энергия, которую обладает вещество вследствие движения его атомов и молекул</option3>
+        <option4>Энергия, передаваемая от одного тела к другому при нагревании</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какая физическая величина определяется как отношение силы к площади, на которую эта сила действует?</questionText>
+        <option1>Давление</option1>
+        <option2>Скорость</option2>
+        <option3>Плотность</option3>
+        <option4>Теплота</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какая величина измеряет количество электрического заряда, проходящего через сечение проводника за единицу времени?</questionText>
+        <option1>Электрическое напряжение</option1>
+        <option2>Электрическое сопротивление</option2>
+        <option3>Мощность</option3>
+        <option4>Электрический ток</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Какая физическая величина определяется как сила, действующая на единицу площади, перпендикулярную направлению этой силы?</questionText>
+        <option1>Работа</option1>
+        <option2>Энергия</option2>
+        <option3>Давление</option3>
+        <option4>Сила тяжести</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какой закон описывает явление электромагнитной индукции?</questionText>
+        <option1>Закон Ампера</option1>
+        <option2>Закон Фарадея</option2>
+        <option3>Закон Гаусса</option3>
+        <option4>Закон Кулона</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое электрический заряд?</questionText>
+        <option1>Сила, с которой тело воздействует на окружающие объекты</option1>
+        <option2>Сила, препятствующая движению тела в среде</option2>
+        <option3>Физическая величина, характеризующая свойство частицы быть заряженной</option3>
+        <option4>Сила, с которой Земля притягивает все объекты к своему центру</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое волновая длина?</questionText>
+        <option1>Расстояние между двумя соседними точками на волне, колеблющейся в одной и той же фазе</option1>
+        <option2>Расстояние, которое проходит волна за единицу времени</option2>
+        <option3>Расстояние от центра волны до ее наивысшей или наименьшей точки</option3>
+        <option4>Максимальное отклонение волны от положения равновесия</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон сохранения энергии, согласно которому энергия не может быть создана или уничтожена, а может только превращаться из одной формы в другую?</questionText>
+        <option1>Закон сохранения импульса</option1>
+        <option2>Закон сохранения заряда</option2>
+        <option3>Закон сохранения энергии</option3>
+        <option4>Закон сохранения массы</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое преломление света?</questionText>
+        <option1>Явление изменения направления распространения света при прохождении из одной среды в другую</option1>
+        <option2>Явление отражения света от поверхности</option2>
+        <option3>Явление, при котором свет испытывает изменение цвета при прохождении через прозрачное вещество</option3>
+        <option4>Явление, при котором свет поглощается поверхностью тела</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какой закон описывает отношение между силой, массой и ускорением тела?</questionText>
+        <option1>Закон Архимеда</option1>
+        <option2>Закон Ньютона</option2>
+        <option3>Закон Паскаля</option3>
+        <option4>Закон Кеплера</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое электрический ток?</questionText>
+        <option1>Периодическое изменение напряжения в электрической цепи</option1>
+        <option2>Сила, с которой тело воздействует на окружающие объекты</option2>
+        <option3>Перемещение электрических зарядов внутри проводника</option3>
+        <option4>Сила, действующая на тело в результате вращения Земли</option4>
+        <correctOption>3</correctOption>
+    </question>
+</questions>

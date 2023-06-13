@@ -1,0 +1,226 @@
+<questions>
+    <question>
+        <questionText>Какая битва считается поворотным пунктом во время Второй мировой войны?</questionText>
+        <option1>Стратегический оборонительный бой под Москвой</option1>
+        <option2>Битва при Курской дуге</option2>
+        <option3>Десант в Нормандии</option3>
+        <option4>Битва за Берлин</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие положило конец Крымской войне?</questionText>
+        <option1>Подписание Парижского мирного договора</option1>
+        <option2>Взятие Севастополя союзниками</option2>
+        <option3>Крымское восстание</option3>
+        <option4>Основание Одессы</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был первым президентом Российской Федерации?</questionText>
+        <option1>Борис Ельцин</option1>
+        <option2>Владимир Путин</option2>
+        <option3>Михаил Горбачев</option3>
+        <option4>Дмитрий Медведев</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какой государственный строй был установлен в России в результате Октябрьской революции 1917 года?</questionText>
+        <option1>Коммунизм</option1>
+        <option2>Монархия</option2>
+        <option3>Социализм</option3>
+        <option4>Диктатура</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был президентом США во время Карибского кризиса 1962 года?</questionText>
+        <option1>Джон Кеннеди</option1>
+        <option2>Ричард Никсон</option2>
+        <option3>Дуайт Эйзенхауэр</option3>
+        <option4>Джимми Картер</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие стало началом Первой мировой войны?</questionText>
+        <option1>Убийство Архидука Франца Фердинанда</option1>
+        <option2>Взятие Форта Эбен-Эмаэль</option2>
+        <option3>Подписание Брестского мира</option3>
+        <option4>Октябрьская революция</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто являлся лидером нацистской Германии во время Второй мировой войны?</questionText>
+        <option1>Адольф Гитлер</option1>
+        <option2>Бенито Муссолини</option2>
+        <option3>Хирохито</option3>
+        <option4>Иосиф Сталин</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие привело к началу Гражданской войны в США?</questionText>
+        <option1>Подписание Эмигрантского акта</option1>
+        <option2>Бомбардировка Форта Самтера</option2>
+        <option3>Отмена Закона о рабстве</option3>
+        <option4>Сражение при Антиетаме</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Кто из перечисленных был римским императором?</questionText>
+        <option1>Александр Македонский</option1>
+        <option2>Гай Юлий Цезарь</option2>
+        <option3>Хаммурапи</option3>
+        <option4>Хан Ингвар</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какое государство было центром майянской цивилизации?</questionText>
+        <option1>Ацтеки</option1>
+        <option2>Инков</option2>
+        <option3>Майя</option3>
+        <option4>Ольмеки</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие стало поводом для начала Крымской войны?</questionText>
+        <option1>Крымское восстание</option1>
+        <option2>Взятие Севастополя французами</option2>
+        <option3>Аннексия Крыма Российской Федерацией</option3>
+        <option4>Конфликт в районе Керченского пролива</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какая битва считается поворотным пунктом во время Второй мировой войны?</questionText>
+        <option1>Стратегический оборонительный бой под Москвой</option1>
+        <option2>Битва при Курской дуге</option2>
+        <option3>Десант в Нормандии</option3>
+        <option4>Битва за Берлин</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был первым президентом Российской Федерации?</questionText>
+        <option1>Борис Ельцин</option1>
+        <option2>Владимир Путин</option2>
+        <option3>Михаил Горбачев</option3>
+        <option4>Дмитрий Медведев</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какой государственный строй был установлен в России в результате Октябрьской революции 1917 года?</questionText>
+        <option1>Коммунизм</option1>
+        <option2>Монархия</option2>
+        <option3>Социализм</option3>
+        <option4>Диктатура</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был президентом США во время Карибского кризиса 1962 года?</questionText>
+        <option1>Джон Кеннеди</option1>
+        <option2>Дуайт Эйзенхауэр</option2>
+        <option3>Ричард Никсон</option3>
+        <option4>Джордж Буш</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какая страна стала первым спутником Земли?</questionText>
+        <option1>СССР</option1>
+        <option2>США</option2>
+        <option3>Китай</option3>
+        <option4>Франция</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие привело к началу Первой мировой войны?</questionText>
+        <option1>Убийство Франца Фердинанда</option1>
+        <option2>Взятие Бреста-Литовска</option2>
+        <option3>Октябрьская революция</option3>
+        <option4>Подписание Третьего рейха</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был лидером Красной армии во время Гражданской войны в России?</questionText>
+        <option1>Лев Троцкий</option1>
+        <option2>Владимир Ленин</option2>
+        <option3>Иосиф Сталин</option3>
+        <option4>Александр Колчак</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какой мирный договор положил конец Первой мировой войне?</questionText>
+        <option1>Версальский мирный договор</option1>
+        <option2>Брест-Литовский мирный договор</option2>
+        <option3>Третий рейх</option3>
+        <option4>Тульский мирный договор</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какой лидер был известен как "железный канцлер"?</questionText>
+        <option1>Отто фон Бисмарк</option1>
+        <option2>Ангела Меркель</option2>
+        <option3>Вильгельм I</option3>
+        <option4>Вильгельм II</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какая страна стала первым космическим путешественником?</questionText>
+        <option1>СССР</option1>
+        <option2>США</option2>
+        <option3>Китай</option3>
+        <option4>Франция</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был первым князем Киевской Руси?</questionText>
+        <option1>Олег</option1>
+        <option2>Рюрик</option2>
+        <option3>Игорь</option3>
+        <option4>Владимир</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие положило начало Монгольскому игу?</questionText>
+        <option1>Битва на реке Калке</option1>
+        <option2>Сражение на Курске</option2>
+        <option3>Подписание Перемышльского соглашения</option3>
+        <option4>Основание города Твери</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто из следующих царей провел реформы, известные как "Петровские преобразования"?</questionText>
+        <option1>Иван Грозный</option1>
+        <option2>Петр I</option2>
+        <option3>Екатерина II</option3>
+        <option4>Александр I</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие положило начало Октябрьской революции в России 1917 года?</questionText>
+        <option1>Февральская революция</option1>
+        <option2>Октябрьское восстание</option2>
+        <option3>Восстание на Красной площади</option3>
+        <option4>Антантский десант в Петрограде</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Кто был последним императором Российской империи?</questionText>
+        <option1>Николай II</option1>
+        <option2>Александр III</option2>
+        <option3>Павел I</option3>
+        <option4>Александр II</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какая партия возглавляла Октябрьскую революцию в России 1917 года?</questionText>
+        <option1>Большевики</option1>
+        <option2>Меньшевики</option2>
+        <option3>Эсеры</option3>
+        <option4>Кадеты</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое событие положило начало Гражданской войны в России?</questionText>
+        <option1>Путч Корнилова</option1>
+        <option2>Убийство Распутина</option2>
+        <option3>Отречение Николая II</option3>
+        <option4>Взятие Зимнего дворца</option4>
+        <correctOption>1</correctOption>
+    </question>
+</questions>

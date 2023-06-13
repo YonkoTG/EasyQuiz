@@ -1,0 +1,162 @@
+<questions>
+    <question>
+        <questionText>Что такое механическое движение?</questionText>
+        <option1>Движение тела под действием силы тяжести</option1>
+        <option2>Движение тела с постоянной скоростью</option2>
+        <option3>Движение тела, вызванное внешней причиной</option3>
+        <option4>Движение тела в поле магнитного поля</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какая единица измерения используется для измерения силы в системе СИ?</questionText>
+        <option1>Ньютон</option1>
+        <option2>Джоуль</option2>
+        <option3>Ватт</option3>
+        <option4>Ампер</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое работа в физике?</questionText>
+        <option1>Способность тела совершать механическое движение</option1>
+        <option2>Изменение скорости тела под действием силы</option2>
+        <option3>Перемещение тела под действием силы</option3>
+        <option4>Передача энергии телом вследствие воздействия силы</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Какой физической величиной измеряется сила тока?</questionText>
+        <option1>Вольт</option1>
+        <option2>Ампер</option2>
+        <option3>Ом</option3>
+        <option4>Ватт</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое плотность вещества?</questionText>
+        <option1>Масса единицы объема вещества</option1>
+        <option2>Объем единицы массы вещества</option2>
+        <option3>Температурное расширение вещества</option3>
+        <option4>Плотность энергии вещества</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какое уравнение описывает закон Кулона?</questionText>
+        <option1>F = ma</option1>
+        <option2>F = qvB</option2>
+        <option3>F = G(m1 * m2) / r^2</option3>
+        <option4>F = k(q1 * q2) / r^2</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется величина, равная отношению изменения скорости к пройденному пути?</questionText>
+        <option1>Сила</option1>
+        <option2>Ускорение</option2>
+        <option3>Импульс</option3>
+        <option4>Скорость</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое закон сохранения энергии?</questionText>
+        <option1>Энергия не может быть создана или уничтожена, только преобразована из одной формы в другую</option1>
+        <option2>Сумма сил, действующих на тело, равна нулю</option2>
+        <option3>Сумма массы и энергии в изолированной системе не изменяется</option3>
+        <option4>Объем газа прямо пропорционален температуре и обратно пропорционален давлению</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какой закон движения формулируется как "путь, пройденный телом, прямо пропорционален времени, затраченному на это движение"?</questionText>
+        <option1>Первый закон Ньютона</option1>
+        <option2>Второй закон Ньютона</option2>
+        <option3>Третий закон Ньютона</option3>
+        <option4>Закон равномерного прямолинейного движения</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Какой физической величиной измеряется мощность в системе СИ?</questionText>
+        <option1>Вольт</option1>
+        <option2>Ампер</option2>
+        <option3>Ватт</option3>
+        <option4>Ом</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое механическая работа?</questionText>
+        <option1>Изменение положения тела под действием силы</option1>
+        <option2>Произведение силы на путь, пройденный телом</option2>
+        <option3>Передача энергии от одного тела к другому</option3>
+        <option4>Изменение формы тела под действием силы</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какая единица измерения используется для измерения электрического заряда в системе СИ?</questionText>
+        <option1>Ампер</option1>
+        <option2>Кулон</option2>
+        <option3>Вольт</option3>
+        <option4>Ом</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое сопротивление в электрической цепи?</questionText>
+        <option1>Способность проводника передавать электрический заряд</option1>
+        <option2>Электрическое напряжение между двумя точками в цепи</option2>
+        <option3>Изменение электрического заряда в цепи</option3>
+        <option4>Препятствие, встречающееся при прохождении электрического тока</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Какой физической величиной измеряется электрическое напряжение в системе СИ?</questionText>
+        <option1>Вольт</option1>
+        <option2>Ампер</option2>
+        <option3>Ом</option3>
+        <option4>Кулон</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое тепловая энергия?</questionText>
+        <option1>Энергия, связанная с движением атомов и молекул вещества</option1>
+        <option2>Энергия, которую обладает тело, имея определенную температуру</option2>
+        <option3>Энергия, передаваемая от одного тела к другому при нагревании</option3>
+        <option4>Энергия, возникающая в результате химических реакций</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Какой закон описывает закон сохранения импульса?</questionText>
+        <option1>Закон Архимеда</option1>
+        <option2>Закон Гей-Люссака</option2>
+        <option3>Закон сохранения энергии</option3>
+        <option4>Закон сохранения импульса</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое трение?</questionText>
+        <option1>Сила, действующая на тело, когда оно погружено в жидкость</option1>
+        <option2>Сопротивление движению тела при соприкосновении с другим телом или поверхностью</option2>
+        <option3>Сила, препятствующая движению тела в жидкости или газе</option3>
+        <option4>Силы, действующие на тело, когда оно находится в электрическом поле</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какая единица измерения используется для измерения силы трения?</questionText>
+        <option1>Ньютон</option1>
+        <option2>Джоуль</option2>
+        <option3>Ватт</option3>
+        <option4>Ампер</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое сила тяжести?</questionText>
+        <option1>Сила, с которой тело воздействует на окружающие объекты</option1>
+        <option2>Сила, препятствующая движению тела в среде</option2>
+        <option3>Сила, с которой Земля притягивает все объекты к своему центру</option3>
+        <option4>Сила, действующая на тело в результате вращения Земли</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется закон, устанавливающий, что сила трения прямо пропорциональна силе, приложенной к телу, и обратно пропорциональна нормальной силе?</questionText>
+        <option1>Закон Гука</option1>
+        <option2>Закон Ампера</option2>
+        <option3>Закон Архимеда</option3>
+        <option4>Закон Кулона</option4>
+        <correctOption>1</correctOption>
+    </question>
+</questions>

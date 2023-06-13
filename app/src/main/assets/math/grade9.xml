@@ -1,0 +1,258 @@
+<questions>
+    <question>
+        <questionText>Решите уравнение: 2x + 5 = 17</questionText>
+        <option1>6</option1>
+        <option2>7</option2>
+        <option3>8</option3>
+        <option4>9</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите значение выражения 3^4 + 2^3</questionText>
+        <option1>35</option1>
+        <option2>61</option2>
+        <option3>75</option3>
+        <option4>91</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите корень уравнения x^2 - 9 = 0</questionText>
+        <option1>±1</option1>
+        <option2>±2</option2>
+        <option3>±3</option3>
+        <option4>±4</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: 4x - 9 = 3x + 6</questionText>
+        <option1>-3</option1>
+        <option2>-2</option2>
+        <option3>-1</option3>
+        <option4>0</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите площадь треугольника со сторонами 5 см, 8 см и 10 см:</questionText>
+        <option1>15 см^2</option1>
+        <option2>20 см^2</option2>
+        <option3>24 см^2</option3>
+        <option4>30 см^2</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Какое число нужно умножить на 9, чтобы получить 45?</questionText>
+        <option1>3</option1>
+        <option2>4</option2>
+        <option3>5</option3>
+        <option4>6</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: 3(x + 2) = 2(x - 3)</questionText>
+        <option1>-9</option1>
+        <option2>-6</option2>
+        <option3>-3</option3>
+        <option4>0</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите значение выражения 5^(1/2)</questionText>
+        <option1>1</option1>
+        <option2>2</option2>
+        <option3>3</option3>
+        <option4>5</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Чему равна сумма углов треугольника?</questionText>
+        <option1>90°</option1>
+        <option2>180°</option2>
+        <option3>270°</option3>
+        <option4>360°</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: 2x - 3 = 7x + 1</questionText>
+        <option1>-1</option1>
+        <option2>-2</option2>
+        <option3>-3</option3>
+        <option4>-4</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите корень уравнения x^2 - 25 = 0</questionText>
+        <option1>±3</option1>
+        <option2>±4</option2>
+        <option3>±5</option3>
+        <option4>±6</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: 6x + 2 = 4(x - 1)</questionText>
+        <option1>-1</option1>
+        <option2>-2</option2>
+        <option3>-3</option3>
+        <option4>0</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите площадь прямоугольника со сторонами 6 см и 9 см:</questionText>
+        <option1>24 см^2</option1>
+        <option2>36 см^2</option2>
+        <option3>45 см^2</option3>
+        <option4>54 см^2</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Какое число нужно умножить на 7, чтобы получить 63?</questionText>
+        <option1>7</option1>
+        <option2>8</option2>
+        <option3>9</option3>
+        <option4>10</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: 4(x + 3) = 3(x - 2)</questionText>
+        <option1>-13</option1>
+        <option2>-10</option2>
+        <option3>-6</option3>
+        <option4>0</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите значение выражения √16</questionText>
+        <option1>2</option1>
+        <option2>4</option2>
+        <option3>6</option3>
+        <option4>8</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Чему равна сумма углов параллелограмма?</questionText>
+        <option1>90°</option1>
+        <option2>180°</option2>
+        <option3>270°</option3>
+        <option4>360°</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: 3x - 5 = 2x + 3</questionText>
+        <option1>-8</option1>
+        <option2>-6</option2>
+        <option3>-2</option3>
+        <option4>2</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите корень уравнения x^2 - 36 = 0</questionText>
+        <option1>±4</option1>
+        <option2>±6</option2>
+        <option3>±8</option3>
+        <option4>±9</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: 5x + 4 = 3(x - 2)</questionText>
+        <option1>-6</option1>
+        <option2>-4</option2>
+        <option3>-2</option3>
+        <option4>0</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите площадь круга с радиусом 7 см:</questionText>
+        <option1>14 см^2</option1>
+        <option2>28 см^2</option2>
+        <option3>49 см^2</option3>
+        <option4>154 см^2</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите площадь круга с радиусом 5 см:</questionText>
+        <option1>15 см^2</option1>
+        <option2>25 см^2</option2>
+        <option3>50 см^2</option3>
+        <option4>78.5 см^2</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Какое число нужно прибавить к 7, чтобы получить 15?</questionText>
+        <option1>5</option1>
+        <option2>6</option2>
+        <option3>7</option3>
+        <option4>8</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: 2(3x - 4) + 5 = 7</questionText>
+        <option1>1</option1>
+        <option2>2</option2>
+        <option3>3</option3>
+        <option4>4</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите корень уравнения x^2 = 64</questionText>
+        <option1>4</option1>
+        <option2>6</option2>
+        <option3>8</option3>
+        <option4>±8</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Какое число нужно умножить на 5, чтобы получить 50?</questionText>
+        <option1>2</option1>
+        <option2>5</option2>
+        <option3>8</option3>
+        <option4>10</option4>
+        <correctOption>4</correctOption>
+    </question>
+    <question>
+        <questionText>Решите уравнение: 3(x - 2) = 2(x + 3)</questionText>
+        <option1>-6</option1>
+        <option2>-3</option2>
+        <option3>0</option3>
+        <option4>6</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Найдите значение выражения 4^3 - 2^4:</questionText>
+        <option1>8</option1>
+        <option2>12</option2>
+        <option3>16</option3>
+        <option4>32</option4>
+        <correctOption>3</correctOption>
+    </question>
+    <question>
+        <questionText>Чему равна сумма углов четырехугольника?</questionText>
+        <option1>180°</option1>
+        <option2>360°</option2>
+        <option3>540°</option3>
+        <option4>720°</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Что такое медиана треугольника?</questionText>
+        <option1>Линия, соединяющая две вершины треугольника</option1>
+        <option2>Линия, проходящая через середину стороны треугольника</option2>
+        <option3>Линия, проходящая через центр вписанной окружности треугольника</option3>
+        <option4>Линия, проходящая через центр описанной окружности треугольника</option4>
+        <correctOption>2</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется угол, который меньше прямого угла?</questionText>
+        <option1>Острый угол</option1>
+        <option2>Тупой угол</option2>
+        <option3>Прямой угол</option3>
+        <option4>Нет правильного ответа</option4>
+        <correctOption>1</correctOption>
+    </question>
+    <question>
+        <questionText>Как называется треугольник, у которого все три угла меньше 90 градусов?</questionText>
+        <option1>Равнобедренный треугольник</option1>
+        <option2>Равносторонний треугольник</option2>
+        <option3>Прямоугольный треугольник</option3>
+        <option4>Остроугольный треугольник</option4>
+        <correctOption>4</correctOption>
+    </question>
+</questions>
